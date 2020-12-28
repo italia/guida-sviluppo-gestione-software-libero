@@ -25,6 +25,7 @@ Oppure, per trovare i commenti nei sorgenti in linguaggi Java/C/C++/Go/Objective
 
 .. code-block:: bash
   :linenos:
+
   find <percorso-verso-i-sorgenti> -type f | egrep 
   '\.(c|cc|h|cpp|go|java|kt|m|mm|swift)' | while read f; do echo 
   "------------ $f ------------------"; sed -n -e '/\/\*.*\*\// {p; 
@@ -34,6 +35,7 @@ Infine, per vedere i commenti in Python/Bash:
 
 .. code-block:: bash
   :linenos:
+
   find <percorso-verso-i-sorgenti> -type f | egrep '\.(py|sh)' | while read f; do echo "------------ $f ------------------"; grep -o "#.*" "$f"; done
 
 Questi sono solo alcuni esempi utili per trovare rapidi riscontri ma deve essere cura del maintainer effettuare dei controlli approfonditi in questa fase preparatoria alla pubblicazione. 
@@ -71,7 +73,7 @@ Responsabilità
 
 Le licenze chiariscono che gli autori del software non si prendono nessuna responsabilità in merito alla completezza e funzionalità, e che è sempre l’utente a doversi assumere la responsabilità per l’adozione di tale codice.
 
-Ad esempio, questo è quanto prevede la `BSD-3 https://opensource.org/licenses/BSD-3-Clause`_:
+Ad esempio, questo è quanto prevede la `BSD-3 <https://opensource.org/licenses/BSD-3-Clause>`__:
 
 	THIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDERS AND CONTRIBUTORS "AS IS" AND ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE ARE DISCLAIMED. IN NO EVENT SHALL THE COPYRIGHT HOLDER OR CONTRIBUTORS BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES (INCLUDING, BUT NOT LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES; LOSS OF USE, DATA, OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER CAUSED AND ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
 
@@ -113,19 +115,12 @@ Ogni repository deve avere nella root un file README, solitamente in formato Mar
   * eventuale immagine Docker;
   * canale di comunicazione relativo al repository (qui un esempio) e link al sito per l’invito (laddove possibile):
 
-    [![Join the #spid-perl 
-	channel](https://img.shields.io/badge/Slack%20channel-%
-	23spid--perl-blue.svg?logo=slack)](https://developersit
-	alia.slack.com/messages/C7ESTMQDQ)
-	[![Get 
-	invited](https://slack.developers.italia.it/badge.svg)]
-	(https://slack.developers.italia.it/)
-	[![SPID on 
-	forum.italia.it](https://img.shields.io/badge/Forum-SPI
-	D-blue.svg)](https://forum.italia.it/c/spid)
+		[![Join the #spid-perl channel](https://img.shields.io/badge/Slack%20channel-%23spid--perl-blue.svg?logo=slack)](https://developersitalia.slack.com/messages/7ESTMQDQ)
+		[![Get invited](https://slack.developers.italia.it/badge.svg)](https://slack.developers.italia.it/)
+		[![SPID on forum.italia.it](https://img.shields.io/badge/Forum-SPID-blue.svg)](https://forum.italia.it/c/spid)
   
 Un README ben curato è fondamentale per incentivare l’adozione e lo sviluppo collaborativo di un progetto. Per ispirazione si può consultare `questa lista di esempi https://github.com/matiassingers/awesome-readme`_.
-Un dettaglio delle sezioni da inserire nel file README è presente a `questo indirizzo https://github.com/italia/readme-starterkit`_ e, per nuovi progetti, è possibile utilizzare `questo template https://github.com/italia/readme-starterkit/blob/master/README.template.md`_. Infine qui si trova una checklist che guida nella verifica della completezza e dell’efficacia del README creato.
+Un dettaglio delle sezioni da inserire nel file README è presente a `questo indirizzo <https://github.com/italia/readme-starterkit>`__ e, per nuovi progetti, è possibile utilizzare `questo template <https://github.com/italia/readme-starterkit/blob/master/README.template.md>`__. Infine qui si trova una checklist che guida nella verifica della completezza e dell’efficacia del README creato.
 
 AUTHORS
 *******
@@ -141,15 +136,15 @@ Esempio di AUTHORS file di developers.italia.it:
 publiccode.yml
 **************
 
-Tutti i repository di software open source sviluppati da una Pubblica Amministrazione italiana devono contenere un file denominato publiccode.yml che contiene le informazioni utili al popolamento del `catalogo di Developers Italia https://developers.italia.it/it/software`_. publiccode.yml è un formato di metadatazione del software nato in Italia ma in corso di adozione internazionale. Tale file contiene diverse chiavi che possono essere facilmente compilate sia a mano che grazie ad un `editor online https://publiccode-editor.developers.italia.it/`_ messo a disposizione dal Dipartimento per la trasformazione digitale.
+Tutti i repository di software open source sviluppati da una Pubblica Amministrazione italiana devono contenere un file denominato publiccode.yml che contiene le informazioni utili al popolamento del `catalogo di Developers Italia https://developers.italia.it/it/software`_. publiccode.yml è un formato di metadatazione del software nato in Italia ma in corso di adozione internazionale. Tale file contiene diverse chiavi che possono essere facilmente compilate sia a mano che grazie ad un `editor online <https://publiccode-editor.developers.italia.it/>`__ messo a disposizione dal Dipartimento per la trasformazione digitale.
 
 
 LICENSE
 *******
 
-Al software deve essere applicata una delle `licenze approvate da Open Source Initiative https://opensource.org/licenses`_ (le Linee Guida sull’acquisizione e il riuso di software per le Pubbliche Amministrazioni ne `suggeriscono alcune in particolare https://docs.italia.it/italia/developers-italia/lg-acquisizione-e-riuso-software-per-pa-docs/it/stabile/attachments/allegato-d-guida-alle-licenze-open-source.html`_, per consentire la massima riusabilità).
+Al software deve essere applicata una delle `licenze approvate da Open Source Initiative https://opensource.org/licenses`_ (le Linee Guida sull’acquisizione e il riuso di software per le Pubbliche Amministrazioni ne `suggeriscono alcune in particolare <https://docs.italia.it/italia/developers-italia/lg-acquisizione-e-riuso-software-per-pa-docs/it/stabile/attachments/allegato-d-guida-alle-licenze-open-source.html>`__, per consentire la massima riusabilità).
 
-Al fine di applicare la licenza scelta al materiale da rilasciare è necessario creare nella root (cartella radice) del repository un file denominato LICENSE, contenente il testo integrale della licenza scelta, senza alcuna modifica. I testi originali sono disponibili a `questo indirizzo https://spdx.org/licenses/`_. Sempre le Linee Guida specificano l’obbligatorietà dello specificare la licenza applicata tramite espressione (o codice) SPDX all’inizio di ogni file sorgente, in modo che sia possibile effettuare una metadatazione automatica delle licenze usate.
+Al fine di applicare la licenza scelta al materiale da rilasciare è necessario creare nella root (cartella radice) del repository un file denominato LICENSE, contenente il testo integrale della licenza scelta, senza alcuna modifica. I testi originali sono disponibili a `questo indirizzo <https://spdx.org/licenses/>`__. Sempre le Linee Guida specificano l’obbligatorietà dello specificare la licenza applicata tramite espressione (o codice) SPDX all’inizio di ogni file sorgente, in modo che sia possibile effettuare una metadatazione automatica delle licenze usate.
 
 Prima di scegliere una licenza per il proprio progetto è fondamentale effettuare dei controlli sulle dipendenze del proprio software. Infatti è possibile che alcune dipendenze o alcune parti del proprio software siano coperti da licenze più o meno restrittive che quindi possono risultare incompatibili con altre. Risulta dunque necessario effettuare dei controlli prima di effettuare la scelta finale e pubblicare il proprio software con una data licenza. Esistono degli strumenti che facilitano queste operazioni come ad esempio:
 
@@ -159,7 +154,7 @@ Prima di scegliere una licenza per il proprio progetto è fondamentale effettuar
 
 Nota bene: il risultato di queste analisi automatiche non è comunque paragonabile al parere di un profilo legale specializzato in materia. Laddove vi fossero dei dubbi o delle incomprensioni è buona norma richiedere una perizia e un parere legale onde evitare di infrangere le norme sul diritto d’autore o violare i termini di una licenza.
 
-Esistono diverse modalità di applicazione delle licenze ai singoli file. Per conoscere la specifica REUSE, si consiglia la lettura della `guida dedicata https://reuse.software/practices/2.0/`_.
+Esistono diverse modalità di applicazione delle licenze ai singoli file. Per conoscere la specifica REUSE, si consiglia la lettura della `guida dedicata <https://reuse.software/practices/2.0/>`__.
 
 
 .gitignore
