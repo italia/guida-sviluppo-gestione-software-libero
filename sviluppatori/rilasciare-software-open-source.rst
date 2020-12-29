@@ -18,18 +18,14 @@ Per ovviare a ciò è possibile usare dei rapidi stratagemmi. Ad esempio, per in
 .. code-block:: bash
   :linenos:
 
-  egrep -r '\b[A-Za-z0-9._%+-]+@[A-Za-z0-9.-]+\.[A-Za-z]{2,6}\b" 
-  |([0-9]+\.){3}[0-9]+' <percorso-verso-i-sorgenti>
+  egrep -r '\b[A-Za-z0-9._%+-]+@[A-Za-z0-9.-]+\.[A-Za-z]{2,6}\b" |([0-9]+\.){3}[0-9]+' <percorso-verso-i-sorgenti>
 
 Oppure, per trovare i commenti nei sorgenti in linguaggi Java/C/C++/Go/Objective-C/Objective-C++/Swift/Kotlin è possibile usare il seguente comando:
 
 .. code-block:: bash
   :linenos:
 
-  find <percorso-verso-i-sorgenti> -type f | egrep 
-  '\.(c|cc|h|cpp|go|java|kt|m|mm|swift)' | while read f; do echo 
-  "------------ $f ------------------"; sed -n -e '/\/\*.*\*\// {p; 
-  b}' -e '/\/\*/,/\*\//p' -e '/\/\//p' "$f"; done
+  find <percorso-verso-i-sorgenti> -type f | egrep '\.(c|cc|h|cpp|go|java|kt|m|mm|swift)' | while read f; do echo "------------ $f ------------------"; sed -n -e '/\/\*.*\*\// {p;b}' -e '/\/\*/,/\*\//p' -e '/\/\//p' "$f"; done
 
 Infine, per vedere i commenti in Python/Bash:
 
@@ -40,7 +36,7 @@ Infine, per vedere i commenti in Python/Bash:
 
 Questi sono solo alcuni esempi utili per trovare rapidi riscontri ma deve essere cura del maintainer effettuare dei controlli approfonditi in questa fase preparatoria alla pubblicazione. 
 
-Se è stato utilizzato il sistema di versionamento GIT fin dall’inizio dello sviluppo è fondamentale prestare attenzione al fatto che tutte le modifiche apportate ai vari file sono state tracciate e quindi visibili nella history. In tal senso, se vengono rimosse delle informazioni in fase di preparazione è fondamentale che le stesse informazioni siano rimosse anche dalla history. Per effettuare questo tipo di operazione esistono diversi strumenti. Questo documento https://help.github.com/en/articles/removing-sensitive-data-from-a-repository rappresenta una guida utile per rimuovere in sicurezza le informazioni sensibili dal proprio codice sorgente e, di conseguenza, dalla history del progetto.
+Se è stato utilizzato il sistema di versionamento GIT fin dall’inizio dello sviluppo è fondamentale prestare attenzione al fatto che tutte le modifiche apportate ai vari file sono state tracciate e quindi visibili nella history. In tal senso, se vengono rimosse delle informazioni in fase di preparazione è fondamentale che le stesse informazioni siano rimosse anche dalla history. Per effettuare questo tipo di operazione esistono diversi strumenti. `Questo documento <https://help.github.com/en/articles/removing-sensitive-data-from-a-repository>`__ rappresenta una guida utile per rimuovere in sicurezza le informazioni sensibili dal proprio codice sorgente e, di conseguenza, dalla history del progetto.
 
 Inoltre, si raccomanda di eseguire alcuni controlli di base sulla qualità e sulla sicurezza del codice prodotto utilizzando strumenti disponibili gratuitamente: ad esempio, molti IDE moderni includono già strumenti di linting per controllare l’assenza sia di errori che di warning, per controllare l’esistenza della documentazione, eventuale codice non utilizzato, variabili non inizializzate e così via. E’ molto consigliato l’utilizzo di questo tipo di strumenti già in fase di sviluppo per trovare e rimuovere i problemi in fase embrionale. Inoltre, è consigliato inserire questi controlli (ad es., linting) anche nella propria toolchain di build. La ridondanza, in questo caso, può essere d’aiuto. 
 
@@ -115,11 +111,8 @@ Ogni repository deve avere nella root un file README, solitamente in formato Mar
   * eventuale immagine Docker;
   * canale di comunicazione relativo al repository (qui un esempio) e link al sito per l’invito (laddove possibile):
 
-		[![Join the #spid-perl channel](https://img.shields.io/badge/Slack%20channel-%23spid--perl-blue.svg?logo=slack)](https://developersitalia.slack.com/messages/7ESTMQDQ)
-		[![Get invited](https://slack.developers.italia.it/badge.svg)](https://slack.developers.italia.it/)
-		[![SPID on forum.italia.it](https://img.shields.io/badge/Forum-SPID-blue.svg)](https://forum.italia.it/c/spid)
   
-Un README ben curato è fondamentale per incentivare l’adozione e lo sviluppo collaborativo di un progetto. Per ispirazione si può consultare `questa lista di esempi https://github.com/matiassingers/awesome-readme`_.
+Un README ben curato è fondamentale per incentivare l’adozione e lo sviluppo collaborativo di un progetto. Per ispirazione si può consultare `questa lista di esempi <https://github.com/matiassingers/awesome-readme>`__.
 Un dettaglio delle sezioni da inserire nel file README è presente a `questo indirizzo <https://github.com/italia/readme-starterkit>`__ e, per nuovi progetti, è possibile utilizzare `questo template <https://github.com/italia/readme-starterkit/blob/master/README.template.md>`__. Infine qui si trova una checklist che guida nella verifica della completezza e dell’efficacia del README creato.
 
 AUTHORS
@@ -136,13 +129,13 @@ Esempio di AUTHORS file di developers.italia.it:
 publiccode.yml
 **************
 
-Tutti i repository di software open source sviluppati da una Pubblica Amministrazione italiana devono contenere un file denominato publiccode.yml che contiene le informazioni utili al popolamento del `catalogo di Developers Italia https://developers.italia.it/it/software`_. publiccode.yml è un formato di metadatazione del software nato in Italia ma in corso di adozione internazionale. Tale file contiene diverse chiavi che possono essere facilmente compilate sia a mano che grazie ad un `editor online <https://publiccode-editor.developers.italia.it/>`__ messo a disposizione dal Dipartimento per la trasformazione digitale.
+Tutti i repository di software open source sviluppati da una Pubblica Amministrazione italiana devono contenere un file denominato publiccode.yml che contiene le informazioni utili al popolamento del `catalogo di Developers Italia <https://developers.italia.it/it/software>`__. publiccode.yml è un formato di metadatazione del software nato in Italia ma in corso di adozione internazionale. Tale file contiene diverse chiavi che possono essere facilmente compilate sia a mano che grazie ad un `editor online <https://publiccode-editor.developers.italia.it/>`__ messo a disposizione dal Dipartimento per la trasformazione digitale.
 
 
 LICENSE
 *******
 
-Al software deve essere applicata una delle `licenze approvate da Open Source Initiative https://opensource.org/licenses`_ (le Linee Guida sull’acquisizione e il riuso di software per le Pubbliche Amministrazioni ne `suggeriscono alcune in particolare <https://docs.italia.it/italia/developers-italia/lg-acquisizione-e-riuso-software-per-pa-docs/it/stabile/attachments/allegato-d-guida-alle-licenze-open-source.html>`__, per consentire la massima riusabilità).
+Al software deve essere applicata una delle `licenze approvate da Open Source Initiative <https://opensource.org/licenses>`__ (le Linee Guida sull’acquisizione e il riuso di software per le Pubbliche Amministrazioni ne `suggeriscono alcune in particolare <https://docs.italia.it/italia/developers-italia/lg-acquisizione-e-riuso-software-per-pa-docs/it/stabile/attachments/allegato-d-guida-alle-licenze-open-source.html>`__, per consentire la massima riusabilità).
 
 Al fine di applicare la licenza scelta al materiale da rilasciare è necessario creare nella root (cartella radice) del repository un file denominato LICENSE, contenente il testo integrale della licenza scelta, senza alcuna modifica. I testi originali sono disponibili a `questo indirizzo <https://spdx.org/licenses/>`__. Sempre le Linee Guida specificano l’obbligatorietà dello specificare la licenza applicata tramite espressione (o codice) SPDX all’inizio di ogni file sorgente, in modo che sia possibile effettuare una metadatazione automatica delle licenze usate.
 
