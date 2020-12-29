@@ -8,7 +8,7 @@ Maintainer
 **********
 
 Il maintainer di un progetto open source è un ruolo con molteplici funzioni organizzative e pratiche. Il maintainer ha il completo controllo di un repository, potendo effettuare le operazioni di clone, push, merge, creazione di nuovi branch e così via.
-E’  responsabile della manutenzione ordinaria del contenuto del repository, ovvero colui che si impegna a seguire l’evoluzione del software, effettuando le operazioni tipiche di housekeeping: si assicura che i diversi approcci vengano seguiti, assicura che il gitflow scelto venga rispettato, che il versionamento sia coerente con le scelte e così via.
+È responsabile della manutenzione ordinaria del contenuto del repository, ovvero colui che si impegna a seguire l’evoluzione del software, effettuando le operazioni tipiche di housekeeping: si assicura che i diversi approcci vengano seguiti, assicura che il gitflow scelto venga rispettato, che il versionamento sia coerente con le scelte e così via.
 Inoltre il maintainer di un progetto open source nella maggioranza dei casi ha a che fare con la community, ovvero l’insieme degli utenti o dei contributori che interagiscono con il repository.
 Questa figura, infatti, segue l’evoluzione delle issue, instrada correttamente i contributori facendo seguire quanto presente nel file CONTRIBUTING, opera i merge delle Pull Request.
 A volte il maintainer fa parte del team di sviluppo e quindi può effettuare direttamente le review dei contributi mentre altre volte si avvale del supporto degli sviluppatori per effettuare revisioni e consolidare i contributi.
