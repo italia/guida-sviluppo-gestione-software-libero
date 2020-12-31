@@ -11,7 +11,7 @@ In questa sezione ci sarà una particolare attenzione dedicata a come scrivere
 e gestire codice in maniera sicura, in particolar modo considerando gli
 accorgimenti necessari a separare lo strato di autenticazione ai servizi (ad
 es. le credenziali di un database) dalla logica applicativa, e tutte le
-migliori best practices. A differenza di quanto si possa credere infatti, la
+migliori best practice. A differenza di quanto si possa credere infatti, la
 pubblicazione del codice sorgente, se eseguita in maniera corretta, aiuta
 a ridurre la superficie di attacco di un possibile malintenzionato.
 
