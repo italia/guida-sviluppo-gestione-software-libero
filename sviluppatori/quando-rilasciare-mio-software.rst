@@ -25,7 +25,7 @@ altre documentazioni utente che si tratta di un lavoro in corso. Questa
 pubblicazione deve essere fatta su di una piattaforma pubblica di code hosting
 che consente la proposta di contributi e modifiche da parte di altri
 sviluppatori, come ad esempio GitHub o GitLab - servizi web costruiti intorno
-al sistema Git.
+al sistema git.
 
 Lo sviluppo deve essere fatto per piccoli incrementi, da dividere in commit
 separati, ed è buona prassi adottare un workflow per lo sviluppo sulla

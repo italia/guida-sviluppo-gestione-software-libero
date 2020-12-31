@@ -56,7 +56,7 @@ Questi sono solo alcuni esempi utili per trovare rapidi riscontri ma deve
 essere cura del maintainer effettuare dei controlli approfonditi in questa fase
 preparatoria alla pubblicazione.
 
-Se è stato utilizzato il sistema di versionamento GIT fin dall’inizio dello
+Se è stato utilizzato il sistema di versionamento git fin dall’inizio dello
 sviluppo è fondamentale prestare attenzione al fatto che tutte le modifiche
 apportate ai vari file sono state tracciate e quindi visibili nella history. In
 tal senso, se vengono rimosse delle informazioni in fase di preparazione
@@ -309,7 +309,7 @@ conoscere la specifica REUSE, si consiglia la lettura della `guida dedicata
 .gitignore
 **********
 
-Questo file permette di configurare la propria istanza di GIT in locale in modo
+Questo file permette di configurare la propria istanza di git in locale in modo
 tale da ignorare alcuni file e non “tracciarli”. In questo modo sarà ad esempio
 possibile separare i file sorgente dai file oggetto frutto di una compilazione
 in locale oppure i file di swap o file temporanei sui quali si sta lavorando in

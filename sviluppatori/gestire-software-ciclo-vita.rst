@@ -65,7 +65,7 @@ Se si sceglie di procedere con una strategia di rilascio, è necessario essere
 molto rigorosi nell’eseguirli con regolarità e tempestivamente (release early,
 release often): una volta adottati, non sono facoltativi.
 
-Ad esempio nella piattaforma Github è possibile usare la funzione delle
+Ad esempio nella piattaforma GitHub è possibile usare la funzione delle
 milestone presente per associare le issue ai futuri rilasci, in modo da
 documentare cosa manca per procedere con un rilascio. Si deve infatti evitare
 la situazione in cui vi sono delle novità nella base di codice, non ancora
