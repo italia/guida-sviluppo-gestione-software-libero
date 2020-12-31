@@ -171,7 +171,7 @@ Nota bene: un progetto open source il cui funzionamento non possa essere corrett
 Rilascio
 ~~~~~~~~
 
-Una volta creato il repository pubblico è necessario pubblicare tutto il codice sorgente contenente i file già elencati più sopra. Se il software da pubblicare è già stato scritto in modalità “chiuso”, è importante riportare tutti i commit passati in modo da facilitare l’interazione con i contributori terzi. Effettuare un singolo commit in modalità “bulk” è considerata una cattiva pratica proprio perchè non rende trasparenti le singole modifiche effettuate nel tempo dagli sviluppatori.
+Una volta creato il repository pubblico è necessario pubblicare tutto il codice sorgente contenente i file già elencati più sopra. Se il software da pubblicare è già stato scritto in modalità “chiuso”, è importante riportare tutti i commit passati in modo da facilitare l’interazione con i contributori terzi. Effettuare un singolo commit in modalità “bulk” è considerata una cattiva pratica proprio perché non rende trasparenti le singole modifiche effettuate nel tempo dagli sviluppatori.
 I messaggi di commit sono importanti in quanto comunicano in breve quali operazioni sono state effettuate dallo sviluppatore. Esistono anche in questo caso diversi approcci e buone pratiche. Una di queste è Conventional Commits (https://www.conventionalcommits.org/en/v1.0.0/) che presenta il seguente formato: 
 
 	<type>[optional scope]: <description>
