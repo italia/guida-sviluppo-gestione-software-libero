@@ -9,4 +9,4 @@ La licenza aperta, seppur condizione necessaria per creare sistemi di sviluppo a
 
 È ora compito delle realtà industriali supportare la Pubblica Amministrazione nella trasformazione digitale, ed è nostro compito aiutare le realtà industriali nella creazione di ecosistemi aperti che le facciano diventare gli attori principali di questa trasformazione.
 
-Questa è una guida pratica, per cui non ha la pretesa di dilungarsi lteriormente in spiegazioni teoriche dei benefici dell’open source. Verrà invece offerta una panoramica di suggerimenti pratici che aiutino gli sviluppatori a muoversi seguendo le migliori raccomandazioni, che gli consentano di risparmiare tempo e denaro e sviluppare in open source nel modo più corretto.
+Questa è una guida pratica, per cui non ha la pretesa di dilungarsi ulteriormente in spiegazioni teoriche dei benefici dell’open source. Verrà invece offerta una panoramica di suggerimenti pratici che aiutino gli sviluppatori a muoversi seguendo le migliori raccomandazioni, che gli consentano di risparmiare tempo e denaro e sviluppare in open source nel modo più corretto.
