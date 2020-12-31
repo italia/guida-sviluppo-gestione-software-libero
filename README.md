@@ -6,25 +6,36 @@
 
 # Guida allo sviluppo e gestione di software libero
 
-> Buone pratiche, suggerimenti e tecniche utili allo sviluppo di software open source per chi gestisce, progetta e realizza i servizi pubblici digitali italiani.
+> Buone pratiche, suggerimenti e tecniche utili allo sviluppo di software open
+> source per chi gestisce, progetta e realizza i servizi pubblici digitali
+> italiani.
 
 # Leggi la guida su [Docs Italia](https://docs.italia.it/italia/developers-italia/guida-sviluppo-gestione-software-libero/it/stabile/index.html)
 
 # Contenuto
 
-Questa guida è una raccolta di buone esperienze per supportare le organizzazioni pubbliche nello sviluppo e nella gestione del software libero e delle politiche connesse. Chiunque sviluppi software o policy per scopi pubblici può utilizzare questo documento per realizzare servizi pubblici di alta qualità che siano più convenienti, il cui sviluppo presenti meno rischi e più vantaggi.
+Questa guida è una raccolta di buone esperienze per supportare le
+organizzazioni pubbliche nello sviluppo e nella gestione del software libero
+e delle politiche connesse. Chiunque sviluppi software o policy per scopi
+pubblici può utilizzare questo documento per realizzare servizi pubblici di
+alta qualità che siano più convenienti, il cui sviluppo presenti meno rischi
+e più vantaggi.
 
 # Dipendenze
 
-Il repository è strutturato per essere compatibile con la piattaforma [Docs Italia](https://docs.italia.it/). 
+Il repository è strutturato per essere compatibile con la piattaforma [Docs
+Italia](https://docs.italia.it/). 
 La piattaforma accetta documenti in formato RST o MD. 
-Per informazioni sulla struttura di questo repository visita il [repository dedicato](https://github.com/italia/docs-italia-starter-kit).
+Per informazioni sulla struttura di questo repository visita il [repository
+dedicato](https://github.com/italia/docs-italia-starter-kit).
 
 # Come contribuire
 
 Ogni contributo è benvenuto!
-E' possibile aprire delle issue per segnalare errori, problemi o per la richiesta di nuove funzionalità.
-Inoltre, è possibile aprire delle Pull Request per proporre direttamente delle modifiche.
+E' possibile aprire delle issue per segnalare errori, problemi o per la
+richiesta di nuove funzionalità.
+Inoltre, è possibile aprire delle Pull Request per proporre direttamente delle
+modifiche.
 
 # Community
 
