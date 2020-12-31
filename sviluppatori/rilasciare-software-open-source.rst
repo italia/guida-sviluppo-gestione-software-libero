@@ -164,7 +164,7 @@ Ad esempio, questo è quanto prevede la `BSD-3 <https://opensource.org/licenses/
 
 È compito di chi lo sviluppa e mantiene assicurarsi che il software rilasciato
 in open source sia sicuro, privo di bug o di vulnerabilità, e quindi di
-adottare strumenti finalizzati alla qualità del codice (ad esempio: unit tests,
+adottare strumenti finalizzati alla qualità del codice (ad esempio: unit test,
 CI, auditing, checklist per feature parity). Problemi o limitazioni note devono
 essere accuratamente documentati come issue, e nei casi più importanti anche
 esplicitati nel README.
@@ -317,7 +317,7 @@ locale. L’utilizzo corretto di questo file rappresenta una buona pratica perch
 evita che alcuni file che non dovrebbero essere pubblici vengano inseriti per
 sbaglio nel repository remoto. Un altro esempio rappresenta i file di
 configurazione del software contenenti informazioni private (ad es., .env
-file): questi file non devono essere pubblicati e dunque denon essere inseriti
+file): questi file non devono essere pubblicati e dunque non essere inseriti
 nel .gitignore.
 
 Esempio di .gitignore file:

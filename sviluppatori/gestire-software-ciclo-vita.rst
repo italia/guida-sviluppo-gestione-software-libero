@@ -58,7 +58,7 @@ queste situazioni:
 * software che può prevedere modifiche non retrocompatibili, con una base di
   utenti che può rimanere potenzialmente legata a precedenti versioni.
 * software da utilizzare in architetture complesse (ad es. i componenti di un
-  sistema a microservizi)
+  sistema a micro-servizi)
 
 
 Se si sceglie di procedere con una strategia di rilascio, è necessario essere
