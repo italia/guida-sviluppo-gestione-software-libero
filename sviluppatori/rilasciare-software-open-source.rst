@@ -219,7 +219,7 @@ Markdown (.md), contenente:
   * canale di comunicazione relativo al repository (qui un esempio) e link al
     sito per l’invito (laddove possibile):
 
-  
+
 Un README ben curato è fondamentale per incentivare l’adozione e lo sviluppo
 collaborativo di un progetto. Per ispirazione si può consultare `questa lista
 di esempi <https://github.com/matiassingers/awesome-readme>`__.

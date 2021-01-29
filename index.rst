@@ -14,7 +14,7 @@ Italia delle buone pratiche di gestione di progetti  e indicare strumenti che
 possono essere utilizzati nello sviluppo di software open source.
 
 .. toctree::
-	
+
 	:caption: Indice dei contenuti
 	:numbered:
 	:maxdepth: 3
