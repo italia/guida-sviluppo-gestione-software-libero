@@ -1,14 +1,11 @@
 name: urlchecker
 on:
-  push:
-    branches:
-      - master
   pull_request:
     branches:
       - master
 jobs:
   linter_name:
-    name: runner / urlscheck
+    name: urls-check
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v2

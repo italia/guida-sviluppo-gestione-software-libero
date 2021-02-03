@@ -1,11 +1,11 @@
-name: reviewdog
+name: language
 on:
   pull_request:
     branches:
       - master
 jobs:
   linter_name:
-    name: runner / misspell
+    name: misspell
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v2

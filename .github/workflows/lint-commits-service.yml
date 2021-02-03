@@ -1,4 +1,4 @@
-name: Lint Commits
+name: commits
 on:
   pull_request:
     branches:
@@ -7,7 +7,7 @@ jobs:
   lint_commits:
     runs-on: ubuntu-latest
     steps:
-      - name: Lint commits
+      - name: lint
         uses: actions-ecosystem/action-lint-commits@v1
         id: lint-commits
         with:
