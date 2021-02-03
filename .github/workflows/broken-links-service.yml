@@ -1,0 +1,20 @@
+name: urlchecker
+on:
+  push:
+    branches:
+      - master
+  pull_request:
+    branches:
+      - master
+jobs:
+  linter_name:
+    name: runner / urlscheck
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+      - uses: urlstechie/urlchecker-action@master
+        with:
+          github_token: ${{ secrets.github_token }}
+          file_types: .rst
+          timeout: 5
+          retry_count: 3
