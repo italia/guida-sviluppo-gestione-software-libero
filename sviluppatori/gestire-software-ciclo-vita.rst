@@ -56,9 +56,9 @@ queste situazioni:
 * software per il quale viene mantenuta documentazione separata (in modo da
   sapere quale versione consultare per una determinata versione del software);
 * software che può prevedere modifiche non retrocompatibili, con una base di
-  utenti che può rimanere potenzialmente legata a precedenti versioni.
+  utenti che può rimanere potenzialmente legata a precedenti versioni;
 * software da utilizzare in architetture complesse (ad es. i componenti di un
-  sistema a micro-servizi)
+  sistema a micro-servizi).
 
 
 Se si sceglie di procedere con una strategia di rilascio, è necessario essere
