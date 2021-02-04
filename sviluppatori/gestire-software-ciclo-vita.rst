@@ -20,7 +20,7 @@ Inoltre il maintainer di un progetto open source nella maggioranza dei casi ha
 a che fare con la community, ovvero l’insieme degli utenti o dei contributori
 che interagiscono con il repository.
 Questa figura, infatti, segue l’evoluzione delle issue, instrada correttamente
-i contributori facendo seguire quanto presente nel file CONTRIBUTING, opera
+i contributori facendo seguire quanto indicato nel file CONTRIBUTING, opera
 i merge delle Pull Request.
 A volte il maintainer fa parte del team di sviluppo e quindi può effettuare
 direttamente le review dei contributi mentre altre volte si avvale del supporto
