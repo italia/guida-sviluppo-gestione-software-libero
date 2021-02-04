@@ -61,7 +61,7 @@ queste situazioni:
   sistema a micro-servizi).
 
 
-Se si sceglie di procedere con una strategia di rilascio, è necessario essere
+Se si sceglie di procedere con una strategia di rilasci, è necessario essere
 molto rigorosi nell’eseguirli con regolarità e tempestivamente (release early,
 release often): una volta adottati, non sono facoltativi.
 
