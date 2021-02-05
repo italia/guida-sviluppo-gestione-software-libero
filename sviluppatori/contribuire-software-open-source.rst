@@ -4,7 +4,7 @@ Contribuire al software open source sviluppato da altri
 Relazioni con i maintainer del software
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-Quando si contribuisce a progetti open source è bene interagire con gli
+Quando si contribuisce a progetti open source è bene che le interazioni con gli
 sviluppatori e i maintainer del codice avvengano con modalità e su canali
 pubblici.  Questo dà visibilità alle discussioni in modo più ampio rispetto al
 solo coinvolgimento dei diretti interessati.  Comunicazioni pubbliche e aperte
