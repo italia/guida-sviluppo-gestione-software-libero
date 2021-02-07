@@ -11,8 +11,8 @@ protocolli di messa a riuso del software tra le varie amministrazioni.
 
 Questo primo modello, seppur ambizioso, limitava il riuso alla condivisione
 alle sole Pubbliche Amministrazioni, relegando la partecipazione delle aziende
-allo sviluppo del software a un modello di acquisizione tradizionale. Dalla
-revisione del 2018, e in particolar modo dalla pubblicazione delle `Linee Guida
+allo sviluppo del software a un modello di acquisizione tradizionale. Nel 2018,
+con le modifiche all'art. 69 del CAD e la pubblicazione delle `Linee Guida
 su acquisizione e riuso di software per le Pubbliche Amministrazioni
 <https://docs.italia.it/italia/developers-italia/lg-acquisizione-e-riuso-software-per-pa-docs/it/stabile/index.html>`__,
 viene invece assegnato al software “open source” o “software libero”
