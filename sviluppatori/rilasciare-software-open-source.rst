@@ -333,7 +333,7 @@ formato Markdown (.md) nella root del progetto. Le versioni e le relative
 modifiche devono essere riportate all'interno del file in ordine cronologico
 (dalla più recente alla meno recente) e contengono tutti i possibili riferimenti
 di rintracciabilità di ogni modifica effettuata (come autore, data, descrizione,
-richieste pull o commit di riferimento) da una versione precedente ad una
+richieste pull o commit di riferimento) da una versione precedente a una
 successiva fino al rilascio corrente.
 
 Esempio di CHANGELOG.md file:
