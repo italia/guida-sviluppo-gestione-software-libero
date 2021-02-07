@@ -14,12 +14,19 @@
 
 # Contenuto
 
-Questa guida è una raccolta di buone esperienze per supportare le
+Questa guida è una raccolta di buone pratiche ed esperienze per supportare le
 organizzazioni pubbliche nello sviluppo e nella gestione del software libero
 e delle politiche connesse. Chiunque sviluppi software o policy per scopi
 pubblici può utilizzare questo documento per realizzare servizi pubblici di
 alta qualità che siano più convenienti, il cui sviluppo presenti meno rischi
-e più vantaggi.
+e più vantaggi. In particolare questa guida si concentra su: 
+
+- come guidare le organizzazioni nel processo di rilascio di software open source 
+e aprire a un pubblico più ampio l’intero processo di sviluppo (preparazione del
+progetto, i file necessari al progetto...).
+- gestire il software open source nel suo intero ciclo di vita (ruoli,
+versionamento, gestione issue, gestione contributi...).
+- come contribuire a software open source sviluppato da altri.
 
 # Dipendenze
 
