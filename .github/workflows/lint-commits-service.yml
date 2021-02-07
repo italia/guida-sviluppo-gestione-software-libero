@@ -12,7 +12,7 @@ jobs:
         id: lint-commits
         with:
           github_token: ${{ secrets.github_token }}
-          regex: '^\w+\(.+\): .+'
+          regex: '^\w+(\(.+\))?: .+'
           format: markdown
 
       - name: Post warning comment
@@ -25,7 +25,7 @@ jobs:
 
             ${{ steps.lint-commits.outputs.unmatched_commits }}
 
-            The format `<type>(<scope>): <subject>` (`^\w+\(.+\): .+`) is acceptable. e.g., `feat(api): Add /users/get`
+            The format `<type>(<scope>): <subject>` (`^\w+(\(.+\))?: .+`) is acceptable. e.g., `feat(api): Add /users/get`
 
       - name: Fail when commits don't pass lint
         if: ${{ steps.lint-commits.outputs.unmatched_commits != '' }}
