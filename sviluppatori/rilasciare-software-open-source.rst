@@ -336,6 +336,10 @@ di rintracciabilità di ogni modifica effettuata (come autore, data, descrizione
 richieste pull o commit di riferimento) da una versione precedente ad una
 successiva fino al rilascio corrente.
 
+Esempio di CHANGELOG.md file:
+
+* https://github.com/italia/ckan-it/blob/master/CHANGELOG.md
+
 File di progetto
 ****************
 
