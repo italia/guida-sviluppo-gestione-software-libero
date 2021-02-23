@@ -263,6 +263,25 @@ compilate sia a mano che grazie ad un `editor online
 Dipartimento per la trasformazione digitale.
 
 
+CONTRIBUTING
+************
+
+Il file CONTRIBUTING, solitamente in formato Markdown (.md), fornisce ai
+potenziali contributori del progetto una breve guida su come possono aiutare con
+il progetto aiutandoli a fare un buon lavoro. Puoi aggiungere un file con
+le linee guida per i contributi alla cartella principale del repository del tuo
+progetto. Per il proprietario del repository, le linee guida su come contribuire
+al progetto sono un modo per comunicare alle persone come
+dovrebbero contribuire, mentre per i contributori le linee guida sono un aiuto
+per verificare che stiano inviando Pull Request nella forma corretta e aprendo
+issue utili. Sia per i proprietari che per i contributori, queste linee guida
+consentono di risparmiare tempo e problemi causati da Pull Request create in
+modo improprio o issue che devono essere rifiutate e reinviate.
+
+Esempio di CONTRIBUTING file di developers.italia.it:
+
+* https://github.com/italia/developers.italia.it/blob/master/CONTRIBUTING.md
+
 LICENSE
 *******
 
