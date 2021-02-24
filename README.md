@@ -23,9 +23,9 @@ e più vantaggi. In particolare questa guida si concentra su:
 
 - come guidare le organizzazioni nel processo di rilascio di software open source 
 e aprire a un pubblico più ampio l’intero processo di sviluppo (preparazione del
-progetto, i file necessari al progetto...).
+progetto, i file necessari al progetto etc.).
 - gestire il software open source nel suo intero ciclo di vita (ruoli,
-versionamento, gestione issue, gestione contributi...).
+versionamento, gestione issue, gestione contributi etc.).
 - come contribuire a software open source sviluppato da altri.
 
 # Dipendenze
