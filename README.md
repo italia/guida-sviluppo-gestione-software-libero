@@ -1,6 +1,6 @@
 [![License](https://img.shields.io/github/license/italia/guida-sviluppo-gestione-software-libero.svg)](https://github.com/italia/guida-sviluppo-gestione-software-libero/blob/master/LICENSE)
 [![GitHub issues](https://img.shields.io/github/issues/italia/guida-sviluppo-gestione-software-libero.svg)](https://github.com/italia/guida-sviluppo-gestione-software-libero/issues)
-[![Join the #reuse](https://img.shields.io/badge/Slack%20channel-%23design-blue.svg)](https://app.slack.com/client/T6C27AXE0/CJRSS5S9W)
+[![Join the #reuse](https://img.shields.io/badge/Slack%20channel-%23docs-blue.svg)](https://app.slack.com/client/T6C27AXE0/C9T4ELD4G)
 [![Get invited](https://slack.developers.italia.it/badge.svg)](https://slack.developers.italia.it/)
 [![FOSS PA on forum.italia.it](https://img.shields.io/badge/Forum-OSS-blue.svg)](https://forum.italia.it/c/software-open-source-per-la-pa/49)
 
@@ -14,12 +14,19 @@
 
 # Contenuto
 
-Questa guida è una raccolta di buone esperienze per supportare le
+Questa guida è una raccolta di buone pratiche ed esperienze per supportare le
 organizzazioni pubbliche nello sviluppo e nella gestione del software libero
 e delle politiche connesse. Chiunque sviluppi software o policy per scopi
 pubblici può utilizzare questo documento per realizzare servizi pubblici di
 alta qualità che siano più convenienti, il cui sviluppo presenti meno rischi
-e più vantaggi.
+e più vantaggi. In particolare questa guida si concentra su: 
+
+- come guidare le organizzazioni nel processo di rilascio di software open source 
+e aprire a un pubblico più ampio l’intero processo di sviluppo (preparazione del
+progetto, i file necessari al progetto etc.).
+- gestire il software open source nel suo intero ciclo di vita (ruoli,
+versionamento, gestione issue, gestione contributi etc.).
+- come contribuire a software open source sviluppato da altri.
 
 # Dipendenze
 
@@ -39,7 +46,7 @@ modifiche.
 
 # Community
 
-E' possibile contattare i maintainer anche all'interno dello [Slack di Developers Italia](https://app.slack.com/client/T6C27AXE0/CJRSS5S9W/) oppure all'interno di [Forum Italia](https://forum.italia.it/c/software-open-source-per-la-pa/49).
+E' possibile contattare i maintainer anche all'interno dello [Slack di Developers Italia](https://app.slack.com/client/T6C27AXE0/C9T4ELD4G/) oppure all'interno di [Forum Italia](https://forum.italia.it/c/software-open-source-per-la-pa/49).
 
 # Manutenzione 
 
