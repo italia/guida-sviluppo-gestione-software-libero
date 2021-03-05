@@ -262,6 +262,28 @@ compilate sia a mano che grazie ad un `editor online
 <https://publiccode-editor.developers.italia.it/>`__ messo a disposizione dal
 Dipartimento per la trasformazione digitale.
 
+CODE_OF_CONDUCT
+***************
+
+Un codice di condotta è definito nel file CODE_OF_CONDUCT, solitamente in
+formato Markdown (.md) nella root del progetto, e definisce le modalità di
+interazione all'interno di una comunità. Adottare un codice di condotta significa
+delineare un ambiente inclusivo che rispetta tutti i contributi e le persone che
+contribuiscono. Descrive inoltre le procedure da adottare per affrontare i
+problemi tra i membri della comunità del progetto. Il codice di condotta deve
+contenere informazioni su:
+
+* dove il codice di condotta ha effetto, ad esempio solo su problemi e richieste
+  o attività della comunità come eventi;
+* a chi si applica il codice di condotta, ad esempio membri della comunità e
+  manutentori;
+* cosa succede se qualcuno viola il codice di condotta;
+* come si possono segnalare le violazioni;
+* riferimenti alle licenze utilizzate
+
+Esempio di CODE_OF_CONDUCT file di developers.italia.it:
+
+* https://github.com/italia/developers.italia.it/blob/master/CODE_OF_CONDUCT.md
 
 CONTRIBUTING
 ************
