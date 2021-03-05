@@ -365,6 +365,21 @@ Esempio di .gitignore file:
 
 * https://github.com/italia/developers.italia.it/blob/master/.gitignore
 
+CHANGELOG
+*********
+
+Tutte le modifiche rilevanti del progetto per ogni versione rilasciata devono
+essere tracciate e documentate nel file CHANGELOG, da inserire in
+formato Markdown (.md) nella root del progetto. Le versioni e le relative
+modifiche devono essere riportate all'interno del file in ordine cronologico
+(dalla più recente alla meno recente) e contengono tutti i possibili riferimenti
+di rintracciabilità di ogni modifica effettuata (come autore, data, descrizione,
+richieste di includere le modifiche all'interno della codebase (Pull Request) o commit di riferimento) da una versione precedente a una
+successiva fino al rilascio corrente.
+
+Esempio di CHANGELOG.md file:
+
+* https://github.com/italia/ckan-it/blob/master/CHANGELOG.md
 
 File di progetto
 ****************
