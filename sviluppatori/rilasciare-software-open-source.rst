@@ -230,6 +230,23 @@ progetti, è possibile utilizzare `questo template
 Infine qui si trova una checklist che guida nella verifica della completezza
 e dell’efficacia del README creato.
 
+Un README deve necessariamente restare snello e scorrevole, per approfondimenti
+o specifiche configurazioni del progetto in questione si deve rimandare l'utente
+alla documentazione, che si suddivide in
+
+* documentazione per l'utente: questo documento include tutte le istruzioni e i
+  requisiti necessari per aiutare l'utente a configurare e installare il software
+  sulla propria macchina o su un particolare ambiente.
+* documentazione tecnica: questo documento include tutto quello che riguarda la
+  parte tecnica rivolta agli utenti del settore, come gli step necessari
+  per lo sviluppatore che vuole configurare l'ambiente di sviluppo per poter
+  contribuire al codice, l'architettura del sistema, istruzioni per la
+  compilazione, dettagli sulle API ecc.
+
+Se il progetto è puramente tecnico, come ad esempio una libreria,
+la documentazione utente e la documentazione tecnica possono essere racchiuse
+in un solo documento.
+
 AUTHORS
 *******
 
