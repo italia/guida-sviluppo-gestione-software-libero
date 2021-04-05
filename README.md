@@ -36,6 +36,24 @@ La piattaforma accetta documenti in formato RST o MD.
 Per informazioni sulla struttura di questo repository visita il [repository
 dedicato](https://github.com/italia/docs-italia-starter-kit).
 
+# Preview
+
+Per lavorare utilizzando una preview della guida occorre installare le 
+dipendenze in un ambiente virtuale Python utilizzando il comando
+
+```
+pip install -r requirements.txt
+```
+
+Dopodichè occorre lanciare `sphinx-autobuild` per aggiornare la preview ad ogni
+modifica
+
+```
+sphinx-autobuild . _build
+```
+
+la preview sarà visibile all'indirizzo [http://localhost:8000/](http://localhost:8000/)
+
 # Come contribuire
 
 Ogni contributo è benvenuto!
