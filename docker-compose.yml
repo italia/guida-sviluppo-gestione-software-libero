@@ -1,0 +1,10 @@
+version: "3.9"
+services:
+  web:
+    build: .
+    volumes:
+      - ./sviluppatori:/app/sviluppatori
+      - ./index.rst:/app/index.rst
+      - ./sviluppatori.rst:/app/sviluppatori.rst
+    ports:
+      - "8000:8000"

@@ -38,18 +38,10 @@ dedicato](https://github.com/italia/docs-italia-starter-kit).
 
 # Preview
 
-Per lavorare utilizzando una preview della guida occorre installare le 
-dipendenze in un ambiente virtuale Python utilizzando il comando
+Per lavorare utilizzando una preview della guida è sufficiente lanciare Docker
 
 ```
-pip install -r requirements.txt
-```
-
-Dopodichè occorre lanciare `sphinx-autobuild` per aggiornare la preview ad ogni
-modifica
-
-```
-sphinx-autobuild . _build
+docker-compose up
 ```
 
 la preview sarà visibile all'indirizzo [http://localhost:8000/](http://localhost:8000/)
