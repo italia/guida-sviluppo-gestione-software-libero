@@ -78,8 +78,8 @@ informazioni riservate, per questo consigliamo di installare un hook come
 mantenere nel vostro repository dei dati sensibili in tutta
 sicurezza `git-secret <https://git-secret.io/>`__ è un tool a riga di comando
 per archiviare i dati privati all'interno di un repository git. Questo tool
-crittografa i file tracciati con le chiavi pubbliche di tutti gli utenti
-trusted, in modo che ognuno di loro può decrittografare questi file utilizzando
+cifra i file tracciati con le chiavi pubbliche di tutti gli utenti
+trusted, in modo che ognuno di loro può decifrare questi file utilizzando
 la propria chiave segreta personale.
 
 Si raccomanda di eseguire alcuni controlli di base sulla qualità
