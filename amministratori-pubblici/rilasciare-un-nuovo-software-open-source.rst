@@ -335,7 +335,7 @@ Si suggeriscono i seguenti passi:
    solo come descrittori (ad esempio "Librerie di test per Java" anziché
    "Librerie di test Java").
 
--  Non nominare il progetto come il marchio di qualcun altro.
+-  Non chiamare il progetto come il marchio di qualcun altro.
 
 -  Per i nomi dei repository, separare le parole con trattini invece di
    concatenarle (ad esempio invece di “\ *successortoserverless”*
