@@ -128,7 +128,7 @@ GitLab
 Un’organizzazione in GitLab può essere creata in modo molto semplice
 direttamente dall’interfaccia online del servizio.
 
-Per creare un’organizzazione, è possibile seguire i seguenti passi:
+Per creare un’organizzazione è possibile seguire i seguenti passi:
 
 1. **Fare login su Gitlab con le proprie credenziali**
 
