@@ -412,9 +412,6 @@ contributi, tuttavia, è bene verificare alcuni aspetti:
 .. |image9| image:: /media/image5.png
    :width: 4.2174in
    :height: 2.95313in
-.. |image10| image:: /media/image7.png
-   :width: 6.27083in
-   :height: 2.71875in
 .. |image11| image:: /media/image7.png
    :width: 6.27083in
    :height: 2.71875in
