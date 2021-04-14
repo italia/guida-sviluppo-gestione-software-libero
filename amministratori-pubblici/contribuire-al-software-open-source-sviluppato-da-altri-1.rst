@@ -46,7 +46,7 @@ dei contributi.
 In caso di scoperta di un problema di sicurezza, in particolar modo, è
 importante effettuare una segnalazione tempestiva ai maintainer del
 codice in maniera privata per permettere loro di correggere la
-vulnerabilità in tempi brevi ed informare gli altri utilizzatori del
+vulnerabilità in tempi brevi e informare gli altri utilizzatori del
 software della necessità di aggiornamento.
 
 Riutilizzo
