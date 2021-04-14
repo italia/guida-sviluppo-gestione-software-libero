@@ -373,7 +373,7 @@ contributi, tuttavia, è bene verificare alcuni aspetti:
 -  i contributi devono essere revisionati in termini di potenziali
    rischi per la sicurezza della soluzione;
 
--  i contributi non riguardano personalizzazioni e customizzazioni del
+-  i contributi non riguardano personalizzazioni del
    software in questione non compatibili con un utilizzo generico da
    parte di terzi;
 
