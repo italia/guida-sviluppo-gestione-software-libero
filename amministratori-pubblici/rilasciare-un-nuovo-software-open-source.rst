@@ -50,7 +50,7 @@ per il software per la PEC.
 
 Per meglio visualizzare questo concetto è possibile vedere il seguente
 schema ad albero che rappresenta una possibile strutturazione dei
-repository all’interno di una organizzazione
+repository all’interno di una organizzazione::
 
   ComuneDiReuso
 |-- software-protocollo
