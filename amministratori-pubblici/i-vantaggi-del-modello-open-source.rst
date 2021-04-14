@@ -30,5 +30,5 @@ l’open source nelle loro offerte per contratti.
 Per utilizzare codice open source esistente è necessario specificare nel
 budget e in fase di definizione del progetto che la nuova soluzione
 utilizzerà tale base di codice. Per incoraggiare un approccio innovativo
-all'adattamento del softawre open source al proprio contesto è possibile
+all'adattamento del software open source al proprio contesto è possibile
 descrivere il servizio o il risultato direttamente nel contratto.
