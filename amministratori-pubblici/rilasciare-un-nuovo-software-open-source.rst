@@ -281,9 +281,7 @@ Per farlo è necessario effettuare il login come “comune-reuso”,
 selezionare il menu **Settings** e successivamente selezionare il menu
 sulla sinistra chiamato **Organizations.**
 
-3. Selezionare il bottone **Turn comune-reuso into an** |image10|
-
-**organization.**
+3. Selezionare il bottone **Turn comune-reuso into an organization.**
 
 |image11|
 
