@@ -113,7 +113,7 @@ Dopo aver specificato di voler creare una organizzazione con un piano
 -  Belongs to: si deve scegliere di legare l’organizzazione al nome di
    un ente.
 
-| Al termine, dopo una serie di passaggi di verifica, premendo sul tasto
+Al termine, dopo una serie di passaggi di verifica, premendo sul tasto
   “Next” verrà richiesto quali account invitare all’interno
   dell’organizzazione e la visibilità dell’organizzazione (da mettere
   sempre come “public”).
