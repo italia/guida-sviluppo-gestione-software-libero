@@ -36,6 +36,16 @@ La piattaforma accetta documenti in formato RST o MD.
 Per informazioni sulla struttura di questo repository visita il [repository
 dedicato](https://github.com/italia/docs-italia-starter-kit).
 
+# Preview
+
+Per lavorare utilizzando una preview della guida è sufficiente lanciare Docker
+
+```
+docker-compose up
+```
+
+la preview sarà visibile all'indirizzo [http://localhost:8000/](http://localhost:8000/)
+
 # Come contribuire
 
 Ogni contributo è benvenuto!
