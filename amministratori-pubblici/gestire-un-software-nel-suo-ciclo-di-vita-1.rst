@@ -75,7 +75,7 @@ Rendere obsoleto (“deprecate”) un progetto che nessuno usa
 
 Di seguito i passaggi da seguire per deprecare un repository inattivo:
 
--  | Cambiare la descrizione sul repository e all’interno del file
+-  Cambia la descrizione sul repository e all’interno del file
      README.md. \``La descrizione è la prima cosa che viene guardata da
      un utente che accede al repository e si trova all’inizio del file
      README. Risulta quindi importante aggiungere una frase del tipo:
