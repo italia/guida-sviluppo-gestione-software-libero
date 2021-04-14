@@ -1,0 +1,13 @@
+version: "3.9"
+services:
+  web:
+    build: .
+    volumes:
+      - ./index.rst:/app/index.rst
+      - ./media:/app/media
+      - ./sviluppatori:/app/sviluppatori
+      - ./sviluppatori.rst:/app/sviluppatori.rst
+      - ./amministratori-pubblici:/app/amministratori-pubblici
+      - ./amministratori-pubblici.rst:/app/amministratori-pubblici.rst
+    ports:
+      - "8000:8000"
