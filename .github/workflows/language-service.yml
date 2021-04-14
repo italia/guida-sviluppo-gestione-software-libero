@@ -7,6 +7,7 @@ jobs:
   linter_name:
     name: misspell
     runs-on: ubuntu-latest
+    continue-on-error: true
     steps:
       - uses: actions/checkout@v2
       - uses: reviewdog/action-languagetool@v1
