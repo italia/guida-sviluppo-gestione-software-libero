@@ -325,10 +325,6 @@ Si suggeriscono i seguenti passi:
 
 -  Usare un nome descrittivo che chiarisca cosa fa il tuo progetto.
 
--  Non utilizzare marchi di terze parti se non quando necessario; usali
-   solo come descrittori (ad esempio "Librerie di test per Java" anziché
-   "Librerie di test Java").
-
 -  Non chiamare il progetto come il marchio di qualcun altro.
 
 -  Per i nomi dei repository, separare le parole con trattini invece di
