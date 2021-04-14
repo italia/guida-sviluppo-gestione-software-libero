@@ -1,5 +1,5 @@
 Per gli amministratori pubblici
-======================================
+===============================
 
 .. toctree::
   :maxdepth: 3
