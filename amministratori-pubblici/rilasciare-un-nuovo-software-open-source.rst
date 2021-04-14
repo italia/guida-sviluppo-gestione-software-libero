@@ -231,8 +231,9 @@ la creazione del team. É necessario dunque specificare:
 Al termine, premendo sul bottone “done” il team sarà creato e
 disponibile per contenere i repository della PA.
 
-|image8|\ L’URL del team così creato sarà
-https://bitbucket.org/comune-reuso/.
+|image8|
+
+L’URL del team così creato sarà https://bitbucket.org/comune-reuso/.
 
 Convertire un utente in organizzazione
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
