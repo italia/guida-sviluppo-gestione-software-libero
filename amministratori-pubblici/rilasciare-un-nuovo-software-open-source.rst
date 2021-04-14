@@ -84,7 +84,7 @@ un’organizzazione, è possibile seguire i seguenti passi:
 1. **Fare login su GitHub con le proprie credenziali**
 
 Aperto il sito https://www.github.com/ è possibile effettuare l’accesso
-selezionando sulla barra in altoΩ a destra, il bottone “Sign In”.
+selezionando sulla barra in alto a destra, il bottone “Sign In”.
 
 Nella schermata che compare è possibile specificare il proprio nome
 utente e password o scegliere una modalità di accesso differente.
