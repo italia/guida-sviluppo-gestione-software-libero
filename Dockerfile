@@ -2,9 +2,9 @@ FROM python:3.8
 
 WORKDIR /app
 
-COPY requirements.txt requirements.txt
+COPY preview_build/requirements.txt requirements.txt
 
-COPY configuration/conf.py conf.py
+COPY preview_build/conf.py conf.py
 
 RUN pip3 install -r requirements.txt
 
