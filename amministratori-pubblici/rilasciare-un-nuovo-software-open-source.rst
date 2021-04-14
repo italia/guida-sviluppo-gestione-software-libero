@@ -52,19 +52,14 @@ Per meglio visualizzare questo concetto è possibile vedere il seguente
 schema ad albero che rappresenta una possibile strutturazione dei
 repository all’interno di una organizzazione
 
-ComuneDiReuso
-
-\|-- software-protocollo
-
-\| \|-- LICENSE
-
-\| \|-- README
-
-\|-- software-pec
-
-\| \|-- LICENSE
-
-\| \|-- README
+  ComuneDiReuso
+|-- software-protocollo
+|     |-- LICENSE
+|     `-- README
+|
+|-- software-pec
+|     |-- LICENSE
+|     `-- README
 
 Ovviamente la modalità di creazione di tali organizzazioni differisce a
 seconda della piattaforma adottata.
