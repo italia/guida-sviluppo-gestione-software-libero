@@ -68,7 +68,6 @@ venga conservato per scopi di archiviazione e per visualizzazione
 pubblica. In questo caso è importante denominare il repository come
 *deprecated* (obsoleto) in modo che chi dovesse visitarlo possa essere
 informato del fatto che il progetto non è più attivo e mantenuto.
-conservato per scopi di archiviazione.
 
 Rendere obsoleto (“deprecate”) un progetto che nessuno usa
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
