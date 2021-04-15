@@ -20,3 +20,4 @@ possono essere utilizzati nello sviluppo di software open source.
 	:maxdepth: 3
 
     sviluppatori.rst
+    amministratori-pubblici.rst

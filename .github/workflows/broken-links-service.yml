@@ -12,6 +12,7 @@ jobs:
       - uses: urlstechie/urlchecker-action@master
         with:
           github_token: ${{ secrets.github_token }}
+          exclude_urls: https://gitlab.com/comune-reuso,https://www.ncsc.gov.uk/co
           file_types: .rst
           timeout: 5
           retry_count: 3
