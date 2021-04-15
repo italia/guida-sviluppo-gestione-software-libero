@@ -19,5 +19,6 @@ possono essere utilizzati nello sviluppo di software open source.
 	:numbered:
 	:maxdepth: 3
 
-    sviluppatori.rst
     amministratori-pubblici.rst
+    sviluppatori.rst
+    
