@@ -1,4 +1,4 @@
-.. _gestire-un-software-nel-suo-ciclo-di-vita-1:
+.. _gestire-un-software-nel-suo-ciclo-di-vita:
 
 Gestire un software nel suo ciclo di vita
 -----------------------------------------

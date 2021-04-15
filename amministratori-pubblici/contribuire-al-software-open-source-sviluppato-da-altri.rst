@@ -1,9 +1,9 @@
-.. _contribuire-al-software-open-source-sviluppato-da-altri-1:
+.. _contribuire-al-software-open-source-sviluppato-da-altri:
 
 Contribuire al software open source sviluppato da altri
 -------------------------------------------------------
 
-.. _relazioni-con-i-maintainer-del-software-1:
+.. _relazioni-con-i-maintainer-del-software:
 
 Relazioni con i maintainer del software
 =======================================
