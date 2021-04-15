@@ -4,7 +4,7 @@ WORKDIR /app
 
 COPY preview_build/requirements.txt requirements.txt
 
-COPY preview_build/conf.py conf.py
+COPY preview_build/preview_configuration.py conf.py
 
 RUN pip3 install -r requirements.txt
 
