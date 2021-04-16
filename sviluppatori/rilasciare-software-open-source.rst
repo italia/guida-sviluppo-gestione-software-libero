@@ -66,9 +66,23 @@ documento
 <https://help.github.com/en/articles/removing-sensitive-data-from-a-repository>`__
 rappresenta una guida utile per rimuovere in sicurezza le informazioni
 sensibili dal proprio codice sorgente e, di conseguenza, dalla history del
-progetto.
+progetto. Prima di seguire la guida di rimozione di parti del codice sensibili,
+consigliamo di eseguire uno scan del repository per verificare la presenza di
+informazioni sensibili utilizzando `truffleHog <https://github.com/dxa4481/truffleHog>`__,
+un tool a riga di comando che scava in profondità nella cronologia dei commit e
+nei branch alla ricerca di dati privati inseriti accidentalmente.
 
-Inoltre, si raccomanda di eseguire alcuni controlli di base sulla qualità
+Nello sviluppo del progetto è necessario prevenire il commit di
+informazioni riservate, per questo consigliamo di installare un hook come
+`git-secrets <https://github.com/awslabs/git-secrets>`__. Se invece volete
+mantenere nel vostro repository dei dati sensibili in tutta
+sicurezza `git-secret <https://git-secret.io/>`__ è un tool a riga di comando
+per archiviare i dati privati all'interno di un repository git. Questo tool
+cifra i file tracciati con le chiavi pubbliche di tutti gli utenti
+trusted, in modo che ognuno di loro può decifrare questi file utilizzando
+la propria chiave segreta personale.
+
+Si raccomanda di eseguire alcuni controlli di base sulla qualità
 e sulla sicurezza del codice prodotto utilizzando strumenti disponibili
 gratuitamente: ad esempio, molti IDE moderni includono già strumenti di linting
 per controllare l’assenza sia di errori che di warning, per controllare
