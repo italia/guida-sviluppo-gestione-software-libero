@@ -187,7 +187,10 @@ o di nuove funzionalità, ma le possono valutare insieme ai Project Leader. In
 ogni caso è bene lasciare aperte le feature request, purché ritenute
 compatibili con la roadmap del progetto, in modo che si possano raccogliere
 ulteriori commenti ed essere implementate da contributori.
+
 Gestione delle issue
+********************
+
 Il processo di gestione di una issue da parte di un maintainer si articola
 solitamente in più passaggi:
 
@@ -226,6 +229,8 @@ revisione.
 
 
 Integrazione Continua (Continuous Integration)
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
 I sistemi di integrazione continua (Continuous Integration, CI) sono utili per
 ridurre i tempi di ricerca di bug, consentendo di effettuare test automatizzati
 dell'intera code base. Ciò è particolarmente utile per i progetti che
