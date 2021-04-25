@@ -183,10 +183,10 @@ Richieste di miglioramento (Feature request)
 ********************************************
 
 I Maintainer non sono tenuti a dare attuazione alle richieste di miglioramento
-o di nuove funzionalità, ma lo possono valutare insieme ai Project Leader. In
+o di nuove funzionalità, ma le possono valutare insieme ai Project Leader. In
 ogni caso è bene lasciare aperte le feature request, purché ritenute
 compatibili con la roadmap del progetto, in modo che si possano raccogliere
-ulteriori commenti ed essere implementata da contributori.
+ulteriori commenti ed essere implementate da contributori.
 Gestione delle issue
 Il processo di gestione di una issue da parte di un maintainer si articola
 solitamente in più passaggi:
