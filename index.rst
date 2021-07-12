@@ -14,11 +14,12 @@ Italia delle buone pratiche di gestione di progetti  e indicare strumenti che
 possono essere utilizzati nello sviluppo di software open source.
 
 .. toctree::
-
+	:maxdepth: 3
 	:caption: Indice dei contenuti
 	:numbered:
-	:maxdepth: 3
 
-    amministratori-pubblici.rst
-    sviluppatori.rst
-    
+  introduzione.rst
+  responsabili-politici.rst
+  amministratori-pubblici.rst
+  sviluppatori.rst
+
