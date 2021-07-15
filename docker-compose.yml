@@ -5,6 +5,10 @@ services:
     volumes:
       - ./index.rst:/app/index.rst
       - ./media:/app/media
+      - ./introduzione:/app/introduzione
+      - ./introduzione.rst:/app/introduzione.rst
+      - ./responsabili-politici:/app/responsabili-politici
+      - ./responsabili-politici.rst:/app/responsabili-politici.rst
       - ./sviluppatori:/app/sviluppatori
       - ./sviluppatori.rst:/app/sviluppatori.rst
       - ./amministratori-pubblici:/app/amministratori-pubblici
