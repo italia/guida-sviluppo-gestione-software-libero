@@ -1,7 +1,7 @@
 document:
-  name: Guida allo sviluppo e manutenzione di software libero 
+  name: Guida allo sviluppo e gestione di software libero 
   description: |
-    Guida allo sviluppo e manutenzione di software libero
+    Guida allo sviluppo e gestione di software libero
   tags:
     - developers  
     - software libero 
