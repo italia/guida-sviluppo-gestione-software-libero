@@ -62,4 +62,4 @@ come un’ infrastruttura civica essenziale che rispetti i loro diritti.
   per-le-responsabili-politiche-e-i-responsabili-politici/cosa-può-fare-in-concreto-chi-ha-responsabilità-politiche.rst
 
 .. [1]
-   L. 241/1990 modificata da L 15/2005
+   L . 241/1990 modificata da L 15/2005

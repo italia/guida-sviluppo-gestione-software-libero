@@ -29,28 +29,29 @@ autenticazione usati per alcuni servizi acceduti tramite rete.
 
 Per ovviare a ciò è possibile usare dei rapidi stratagemmi. Ad esempio,
 per individuare nomi host, indirizzi di posta elettronica e indirizzi
-IP, è possibile eseguire questo comando in console:
+IP, è possibile eseguire questo comando in console: ::
 
-egrep -r '\b[A-Za-z0-9._%+-]+@[A-Za-z0-9.-]+\.[A-Za-z]{2,6}\b"
 
-\|([0-9]+\.){3}[0-9]+' ${SOURCE_PATH:=.}
+   egrep -r '\b[A-Za-z0-9._%+-]+@[A-Za-z0-9.-]+\.[A-Za-z]{2,6}\b"
+
+   \|([0-9]+\.){3}[0-9]+' ${SOURCE_PATH:=.}
 
 Oppure, per trovare i commenti nei sorgenti in linguaggi
 Java/C/C++/Go/Objective-C/Objective-C++/Swift/Kotlin è possibile usare
-il seguente comando:
+il seguente comando: ::
 
-find ${SOURCE_PATH:=.} -type f \| egrep
+   find ${SOURCE_PATH:=.} -type f \| egrep
 
-'\.(c|cc|h|cpp|go|java|kt|m|mm|swift)' \| while read f; do echo
+   '\.(c|cc|h|cpp|go|java|kt|m|mm|swift)' \| while read f; do echo
 
-"------------ $f ------------------"; sed -n -e '/\/\*.*\*\// {p;
+   "------------ $f ------------------"; sed -n -e '/\/\*.*\*\// {p;
 
-b}' -e '/\/\*/,/\*\//p' -e '/\/\//p' "$f"; done
+   b}' -e '/\/\*/,/\*\//p' -e '/\/\//p' "$f"; done
 
-Infine, per vedere i commenti in Python/Bash:
+Infine, per vedere i commenti in Python/Bash: ::
 
-find ${SOURCE_PATH:=.} -type f \| egrep '\.(py|sh)' \| while read f; do
-echo "------------ $f ------------------"; grep -o "#.*" "$f"; done
+   find ${SOURCE_PATH:=.} -type f \| egrep '\.(py|sh)' \| while read f; do
+   echo "------------ $f ------------------"; grep -o "#.*" "$f"; done
 
 Questi sono solo alcuni esempi utili per trovare rapidi riscontri ma
 deve essere cura del maintainer effettuare dei controlli approfonditi in
@@ -255,23 +256,14 @@ formato Markdown (.md). È buona norma che questo file contenga:
       `esempio <https://img.shields.io/badge/Slack%20channel-%23spid--wordpress-blue.svg>`__)
       e link al sito per l’invito (laddove possibile):
 
-[![Join the #spid-perl
 
-channel](https://img.shields.io/badge/Slack%20channel-%
+::
 
-23spid--perl-blue.svg?logo=slack)](https://developersitalia.slack.com/messages/C7ESTMQDQ)
+   [![Join the #spid-perlchannel](https://img.shields.io/badge/Slack%20channel-%23spid--perl-blue.svg?logo=slack)](https://developersitalia.slack.com/messages/C7ESTMQDQ)
 
-[![Get
+   [![Getinvited](https://slack.developers.italia.it/badge.svg)](https://slack.developers.italia.it/)
 
-invited](https://slack.developers.italia.it/badge.svg)]
-
-(https://slack.developers.italia.it/)
-
-[![SPID on
-
-forum.italia.it](https://img.shields.io/badge/Forum-SPI
-
-D-blue.svg)](https://forum.italia.it/c/spid)
+   [![SPID onforum.italia.it](https://img.shields.io/badge/Forum-SPID-blue.svg)](https://forum.italia.it/c/spid)
 
 -  eventuali sistemi di Continuous Integration (ad es., CircleCI), code
    coverage ed altre metriche;
@@ -444,13 +436,13 @@ operazioni sono state effettuate dallo sviluppatore. Esistono anche in
 questo caso diversi approcci e buone pratiche. Una di queste è
 `Conventional
 Commits <https://www.conventionalcommits.org/en/v1.0.0/>`__ che presenta
-il seguente formato:
+il seguente formato: ::
 
-<type>[optional scope]: <description>
+   <type>[optional scope]: <description>
 
-[optional body]
+   [optional body]
 
-[optional footer(s)]
+   [optional footer(s)]
 
 Lo scopo è quello di trasmettere molte informazioni in modo semplice,
 che siano leggibili e interpretabili, sia da essere umani che da sistemi

@@ -49,19 +49,15 @@ ricevute via PEC.
 Il seguente schema ad albero rappresenta una possibile strutturazione
 dei repository all’interno di una organizzazione.
 
-comune-reuso
+::
 
-\|-- software-protocollo
-
-\| \|-- LICENSE
-
-\| \|-- README
-
-\|-- software-pec
-
-\| \|-- LICENSE
-
-\| \|-- README
+   comune-reuso
+   |--  software-protocollo
+   |      |-- LICENSE
+   |      |-- README
+   |--  software-pec
+   |      |-- LICENSE
+   |      |-- README
 
 La modalità di creazione di tali organizzazioni differisce a seconda
 della piattaforma adottata.
