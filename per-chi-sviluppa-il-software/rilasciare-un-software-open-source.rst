@@ -133,7 +133,7 @@ automatico.
 
 Tra gli strumenti disponibili è possibile citare:
 
--  `npm-audit <https://docs.npmjs.com/cli/v6/commands/npm-audi>`__,
+-  `npm-audit <https://docs.npmjs.com/cli/v6/commands/npm-audit>`__,
    strumento FOSS per la gestione delle dipendenze e notifica delle
    vulnerabilità per Javascript/Node.js
 
