@@ -17,10 +17,10 @@ software open source.
 .. toctree::
 	:maxdepth: 3
 	:caption: Indice dei contenuti
-	:numbered:
 
   introduzione.rst
   per-le-responsabili-politiche-e-i-responsabili-politici.rst
   per-gli-amministratori-pubblici.rst
   per-chi-sviluppa-il-software.rst
+  bibliografia-sitografia.rst
 

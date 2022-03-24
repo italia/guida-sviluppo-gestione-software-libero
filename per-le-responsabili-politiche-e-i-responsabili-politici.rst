@@ -1,5 +1,5 @@
-1. **Per le responsabili politiche e** i responsabili politici
-==============================================================
+Per le responsabili politiche e i responsabili politici
+=======================================================
 
 A chi si rivolge questo capitolo
 --------------------------------

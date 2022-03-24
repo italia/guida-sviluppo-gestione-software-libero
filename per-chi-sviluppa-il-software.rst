@@ -1,5 +1,5 @@
-3 . **Per** chi sviluppa il software
-====================================
+Per chi sviluppa il software
+============================
 
 .. toctree::
   :maxdepth: 3
