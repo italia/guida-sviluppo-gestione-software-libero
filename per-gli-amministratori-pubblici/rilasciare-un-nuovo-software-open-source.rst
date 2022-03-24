@@ -389,45 +389,45 @@ contributi, tuttavia, occorre verificare alcuni aspetti:
    verifichi quindi che i contributi non violino regole di struttura o
    di organizzazione del progetto.
 
-.. |image0| image:: ./media/image12.png
+.. |image0| image:: /media/image12.png
    :width: 6.27083in
    :height: 5.625in
-.. |image1| image:: ./media/image10.png
+.. |image1| image:: /media/image10.png
    :width: 6.27083in
    :height: 5.625in
-.. |image2| image:: ./media/image11.png
+.. |image2| image:: /media/image11.png
    :width: 6.27083in
    :height: 6.02778in
-.. |image3| image:: ./media/image4.png
+.. |image3| image:: /media/image4.png
    :width: 6.26772in
    :height: 3.05556in
-.. |image4| image:: ./media/image3.png
+.. |image4| image:: /media/image3.png
    :width: 3.89063in
    :height: 3.07359in
-.. |image5| image:: ./media/image5.png
+.. |image5| image:: /media/image5.png
    :width: 6.26772in
    :height: 4.83333in
-.. |image6| image:: ./media/image13.png
+.. |image6| image:: /media/image13.png
    :width: 6.27083in
    :height: 5.40278in
-.. |image7| image:: ./media/image14.png
+.. |image7| image:: /media/image14.png
    :width: 6.27083in
    :height: 5.16667in
-.. |image8| image:: ./media/image15.png
+.. |image8| image:: /media/image15.png
    :width: 6.27083in
    :height: 5.16667in
-.. |image9| image:: ./media/image8.png
+.. |image9| image:: /media/image8.png
    :width: 4.2174in
    :height: 2.95313in
-.. |image10| image:: ./media/image7.png
+.. |image10| image:: /media/image7.png
    :width: 6.27083in
    :height: 2.71875in
-.. |image11| image:: ./media/image7.png
+.. |image11| image:: /media/image7.png
    :width: 6.27083in
    :height: 2.71875in
-.. |image12| image:: ./media/image6.png
+.. |image12| image:: /media/image6.png
    :width: 6.27083in
    :height: 2.69444in
-.. |image13| image:: ./media/image9.png
+.. |image13| image:: /media/image9.png
    :width: 6.27083in
    :height: 1.79167in

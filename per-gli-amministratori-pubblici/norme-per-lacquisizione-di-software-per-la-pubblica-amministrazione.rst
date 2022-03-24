@@ -94,9 +94,9 @@ parte tecnica di pubblicazione è sempre demandata agli sviluppatori
 poiché è parte integrante del processo di sviluppo. Questo, quindi, è un
 sistema efficiente e a basso costo.
 
-.. |image0| image:: ./media/image1.png
+.. |image0| image:: /media/image1.png
    :width: 3.2984in
    :height: 3.22396in
-.. |image1| image:: ./media/image2.png
+.. |image1| image:: /media/image2.png
    :width: 4.02083in
    :height: 3.93685in
