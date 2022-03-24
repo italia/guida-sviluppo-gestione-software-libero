@@ -259,9 +259,7 @@ formato Markdown (.md). È buona norma che questo file contenga:
 
 channel](https://img.shields.io/badge/Slack%20channel-%
 
-23spid--perl-blue.svg?logo=slack)](https://developersit
-
-alia.slack.com/messages/C7ESTMQDQ)
+23spid--perl-blue.svg?logo=slack)](https://developersitalia.slack.com/messages/C7ESTMQDQ)
 
 [![Get
 
