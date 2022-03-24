@@ -3,15 +3,8 @@ services:
   web:
     build: .
     volumes:
-      - ./index.rst:/app/index.rst
-      - ./media:/app/media
-      - ./introduzione:/app/introduzione
-      - ./introduzione.rst:/app/introduzione.rst
-      - ./responsabili-politici:/app/responsabili-politici
-      - ./responsabili-politici.rst:/app/responsabili-politici.rst
-      - ./sviluppatori:/app/sviluppatori
-      - ./sviluppatori.rst:/app/sviluppatori.rst
-      - ./amministratori-pubblici:/app/amministratori-pubblici
-      - ./amministratori-pubblici.rst:/app/amministratori-pubblici.rst
+      - .:/app
+      - /app/preview_build/
+      - ./preview_build/preview_configuration.py:/app/conf.py
     ports:
       - "8000:8000"
