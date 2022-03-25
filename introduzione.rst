@@ -19,6 +19,7 @@ diffondere buone pratiche di progettazione e un approccio virtuoso per
 la realizzazione di servizi pubblici a misura di cittadino.
 
 Cos’è la guida allo sviluppo e alla gestione di software libero
+---------------------------------------------------------------
 
 Questa guida è una raccolta di buone pratiche utili a **supportare le
 organizzazioni pubbliche nello sviluppo e nella gestione del software**
@@ -31,6 +32,7 @@ particolare fornitore, rispettando i principi imposti dalla legge di
 neutralità tecnologica* (art. 68 del CAD).
 
 A cosa serve questa guida
+-------------------------
 
 Imparare a conoscere il software libero è oggi fondamentale per lavorare
 in un ente pubblico. Ricordiamo infatti che il CAD impone alle pubbliche
@@ -54,6 +56,7 @@ trasformazione digitale (DTD) con l’importante esperienza e i bisogni di
 coloro che operano a vario titolo nelle pubbliche amministrazioni.
 
 Una breve panoramica
+--------------------
 
 In questa guida vogliamo fornire una panoramica complessiva di tutti gli
 elementi in gioco, e ci soffermeremo in particolare sui seguenti
@@ -82,6 +85,7 @@ aspetti:
 -  come avere un maggior controllo sui propri sistemi IT.
 
 A chi si rivolge la guida
+-------------------------
 
 Protagoniste di questo documento sono le **Pubbliche Amministrazioni** e
 le **buone pratiche** che abbiamo imparato insieme a loro durante le

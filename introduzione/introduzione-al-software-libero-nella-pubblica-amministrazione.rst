@@ -2,6 +2,7 @@ Introduzione al software libero nella Pubblica Amministrazione
 ==============================================================
 
 Che cos'è il software libero, o open source?
+--------------------------------------------
 
 Il software si definisce libero o open source se il suo codice sorgente
 è distribuito agli utenti ed è corredato da una licenza aperta, ovvero
@@ -20,6 +21,7 @@ pubbliche amministrazioni”, `Allegato C: “Guida alle licenze Open
 Source <https://docs.italia.it/italia/developers-italia/lg-acquisizione-e-riuso-software-per-pa-docs/it/bozza/attachments/allegato-d-guida-alle-licenze-open-source.html>`__\ ”.
 
 Il software libero e la Pubblica Amministrazione
+------------------------------------------------
 
 Lo sviluppo aperto aiuta a realizzare software innovativi e sicuri,
 ragione per la quale soluzioni di software libero sono diventate punti
