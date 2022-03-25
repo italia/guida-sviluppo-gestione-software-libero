@@ -165,19 +165,19 @@ l’utente a doversi assumere la responsabilità per l’adozione di tale
 codice.
 
 Ad esempio, questo è quanto prevede la
-`BSD-3 <https://opensource.org/licenses/BSD-3-Clause>`__:
+`BSD-3 <https://opensource.org/licenses/BSD-3-Clause>`__: ::
 
-THIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDERS AND CONTRIBUTORS "AS
-IS" AND ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED
-TO, THE IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A
-PARTICULAR PURPOSE ARE DISCLAIMED. IN NO EVENT SHALL THE COPYRIGHT
-HOLDER OR CONTRIBUTORS BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL,
-SPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES (INCLUDING, BUT NOT LIMITED
-TO, PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES; LOSS OF USE, DATA, OR
-PROFITS; OR BUSINESS INTERRUPTION) HOWEVER CAUSED AND ON ANY THEORY OF
-LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT (INCLUDING
-NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE OF THIS
-SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
+   THIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDERS AND CONTRIBUTORS "AS
+   IS" AND ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED
+   TO, THE IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A
+   PARTICULAR PURPOSE ARE DISCLAIMED. IN NO EVENT SHALL THE COPYRIGHT
+   HOLDER OR CONTRIBUTORS BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL,
+   SPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES (INCLUDING, BUT NOT LIMITED
+   TO, PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES; LOSS OF USE, DATA, OR
+   PROFITS; OR BUSINESS INTERRUPTION) HOWEVER CAUSED AND ON ANY THEORY OF
+   LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT (INCLUDING
+   NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE OF THIS
+   SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
 
 È dunque compito di chi sviluppa e mantiene il software rilasciato in
 open source assicurarsi che sia sicuro, privo di bug o di vulnerabilità,
@@ -255,15 +255,13 @@ formato Markdown (.md). È buona norma che questo file contenga:
    -  **canale di comunicazione** relativo al repository (come in questo
       `esempio <https://img.shields.io/badge/Slack%20channel-%23spid--wordpress-blue.svg>`__)
       e link al sito per l’invito (laddove possibile):
+      ::
 
+         [![Join the #spid-perlchannel](https://img.shields.io/badge/Slack%20channel-%23spid--perl-blue.svg?logo=slack)](https://developersitalia.slack.com/messages/C7ESTMQDQ)
 
-::
+         [![Getinvited](https://slack.developers.italia.it/badge.svg)](https://slack.developers.italia.it/)
 
-   [![Join the #spid-perlchannel](https://img.shields.io/badge/Slack%20channel-%23spid--perl-blue.svg?logo=slack)](https://developersitalia.slack.com/messages/C7ESTMQDQ)
-
-   [![Getinvited](https://slack.developers.italia.it/badge.svg)](https://slack.developers.italia.it/)
-
-   [![SPID onforum.italia.it](https://img.shields.io/badge/Forum-SPID-blue.svg)](https://forum.italia.it/c/spid)
+         [![SPID onforum.italia.it](https://img.shields.io/badge/Forum-SPID-blue.svg)](https://forum.italia.it/c/spid)
 
 -  eventuali sistemi di Continuous Integration (ad es., CircleCI), code
    coverage ed altre metriche;
@@ -372,6 +370,7 @@ Per conoscere la specifica REUSE, si consiglia la lettura della `guida
 dedicata <https://reuse.software/practices/2.0/>`__.
 
 .gitignore
+~~~~~~~~~~
 
 Questo file permette di configurare la propria istanza di git in locale
 in modo tale da ignorare alcuni file e non “tracciarli”. In questo modo

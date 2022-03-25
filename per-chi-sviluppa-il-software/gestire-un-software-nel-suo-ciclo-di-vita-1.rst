@@ -20,7 +20,7 @@ maggioranza dei casi ha a che fare con la community, ovvero l’insieme
 degli utenti o dei contributori che interagiscono con il repository.
 Questa figura, infatti, segue l’evoluzione delle issue, dirige
 correttamente i contributori facendo seguire quanto presente nel file
-CONTRIBUTING, e opera i merge delle Pull Request. A volte il maintainer
+``CONTRIBUTING``, e opera i merge delle Pull Request. A volte il maintainer
 fa parte del team di sviluppo e può quindi effettuare direttamente le
 review dei contributi mentre altre volte si avvale del supporto degli
 sviluppatori per effettuare revisioni e consolidare i contributi. Il
@@ -113,16 +113,16 @@ rilasci, il versionamento semantico
 seguire quando possibile.
 
 Il versionamento semantico definisce un numero di versione composto da
-tre numeri: MAJOR.MINOR.PATCH. I corrispondenti numeri di versione
+tre numeri: ``MAJOR.MINOR.PATCH``. I corrispondenti numeri di versione
 devono essere incrementati in questo modo:
 
--  MAJOR: quando si apportano modifiche API/ABI incompatibili con le
+-  ``MAJOR``: quando si apportano modifiche API/ABI incompatibili con le
    precedenti;
 
--  MINOR: quando si aggiunge funzionalità in modo compatibile con le
+-  ``MINOR``: quando si aggiunge funzionalità in modo compatibile con le
    versioni precedenti;
 
--  PATCH: quando si apportano correzioni di bug compatibili con le
+-  ``PATCH``: quando si apportano correzioni di bug compatibili con le
    versioni precedenti.
 
 Ulteriori prefissi o postfissi al numero di versione (come pre-release e
@@ -315,10 +315,10 @@ alcuni template pronti all’uso, per testare ad esempio il file
 publiccode.yml, ma che si possono facilmente estendere per essere
 utilizzati in altri contesti.
 
--  Qui puoi trovare il publiccode-parser-orb per CircleCI
+-  Qui puoi trovare il publiccode-parser-orb per CircleCI:
    https://github.com/italia/publiccode-parser-orb
 
--  Qui puoi trovare la action da integrare nel tuo repository github
+-  Qui puoi trovare la action da integrare nel tuo repository github:
    https://github.com/italia/publiccode-parser-action
 
 Elenchiamo di seguito le principali possibilità che un sistema di
@@ -356,8 +356,8 @@ concetto fondamentale in questo caso è quello di utilizzare la stessa
 codebase per tutti i deployment che verranno effettuati (ad esempio,
 development, staging, pre-prod, live) dove a variare saranno solo le
 risorse connesse all’applicazione (ad es., i DB) tramite opportuni file
-di configurazione (maggiori approfondimenti sono disponibili su 12factor
-app https://12factor.net/it/codebase).
+di configurazione (maggiori approfondimenti sono disponibili su `12factor
+app <https://12factor.net/it/codebase>`_).
 
 Abbiamo visto come i sistemi di CI possono facilitare la vita dello
 sviluppatore, aumentare la qualità del codice, supportare le analisi di

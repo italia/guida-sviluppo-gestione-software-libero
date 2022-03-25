@@ -75,9 +75,9 @@ Di seguito i passaggi da seguire per deprecare un repository inattivo:
 -  Cambiare la descrizione sul repository e all’interno del file
    `README.md`. La descrizione è la prima cosa che viene letta da un
    utente che accede al repository e si trova all’inizio del file
-   README. Risulta quindi importante aggiungere una frase del tipo:
+   README. Risulta quindi importante aggiungere una frase del tipo: ::
    
-   | ⚠️ Attenzione! Questo progetto non è più manutenuto dai suoi autori.
+      ⚠️ Attenzione! Questo progetto non è più manutenuto dai suoi autori.
    
    Si suggerisce anche di aggiungere nel README.md anche i riferimenti
    di contatto se qualche utente volesse prendersi carico del progetto
