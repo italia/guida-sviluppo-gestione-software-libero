@@ -95,12 +95,12 @@ può beneficiare dell’uso di buone pratiche nella gestione del software
 pubblico.
 
 I tre principali capitoli di questa guida si rivolgono quindi a:
-**responsabili politici**, **amministratrici pubbliche e amministratori
+**responsabili politiche e responsabili politici**, **amministratrici pubbliche e amministratori
 pubblici** e **sviluppatrici e sviluppatori dei servizi pubblici.**
 
 Definiamo così i ruoli:
 
--  **responsabili politici:** soggetti coinvolti nella definizione delle
+-  **responsabili politiche e responsabili politici:** soggetti coinvolti nella definizione delle
    politiche e delle regole che vengono applicate nello sviluppo di
    servizi e soluzioni software per la pubblica amministrazione,
    indirizzandone l'attuazione. Sono coloro che definiscono le priorità
