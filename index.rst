@@ -18,7 +18,7 @@ software open source.
 
   introduzione.rst
   per-le-responsabili-politiche-e-i-responsabili-politici.rst
-  per-gli-amministratori-pubblici.rst
+  per-le-amministratrici-pubbliche-e-gli-amministratori-pubblici.rst
   per-chi-sviluppa-il-software.rst
   bibliografia-sitografia.rst
 
