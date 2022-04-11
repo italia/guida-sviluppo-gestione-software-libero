@@ -14,10 +14,7 @@ Code Hosting (strumento di)
     organizzato in più repository. Gli strumenti di code hosting offrono
     spesso anche funzionalità legate all'evoluzione di un *software* quali
     sistemi di ticketing, processi per la contribuzione di codice da
-    parte di terzi, area per il download dei rilasci, ecc. Nell'ambito
-    delle presenti Linee Guida, gli strumenti scelti dalle amministrazioni
-    devono avere dei requisiti minimi in termini di funzionalità
-    (:ref:`scelta-code-hosting`).
+    parte di terzi, area per il download dei rilasci, ecc.
 
 Codice sorgente
     Il codice sorgente (spesso detto semplicemente "sorgente") è il
@@ -81,7 +78,7 @@ Repertorio o Repository
     esempio nel CAD Art 69, comma 1).
 
 Riuso
-    Nel contesto di queste Linee Guida, si intende il processo delineato
+    Nel contesto di questo documento, si intende il processo delineato
     dal CAD (art. 69) con il quale una amministrazione distribuisce
     ("mettere a riuso") un *software* di cui ha titolarità in Open Source,
     a favore di altre amministrazioni che possano utilizzarlo ("prendere
@@ -90,14 +87,14 @@ Riuso
     Source è di titolarità di una amministrazione).
 
 SaaS
-    *software* as a Service. Indica una modalità di distribuzione del
+    *Software* as a Service. Indica una modalità di distribuzione del
     *software* che non viene installato sulle postazioni degli operatori,
     ma che avviene attraverso l'accesso remoto a un server, per esempio
     collegandosi con un browser ad un indirizzo. Wikipedia, per esempio,
     è un *software* distribuito in modalità *software* as a Service.
 
 Software proprietario
-    *software* che ha restrizioni sul suo utilizzo, sulla sua modifica,
+    *Software* che ha restrizioni sul suo utilizzo, sulla sua modifica,
     riproduzione o ridistribuzione, imposti dal titolare dei diritti di
     sfruttamento economico, cioè l'autore o - in caso di cessione dei
     diritti patrimoniali - il cessionario dei diritti in questione.
