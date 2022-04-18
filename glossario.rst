@@ -3,17 +3,19 @@
 Glossario
 ---------
 
-Artefatti
-    Sottoprodotto realizzato durante lo sviluppo del *software* che aiuta
-    a descrivere funzioni, architettura, progettazione e messa in
-    esercizio; a solo titolo di esempio: requisiti funzionali,
-    descrizione delle basi dati e dei processi, il set di test.
+Segue un elenco di alcuni termini e del loro rispettivo significato, al
+fine di migliorare la comprensione del documento.
+
+CAD
+    Il Codice dell'Amministrazione Digitale, ovvero il Decreto Legislativo 7
+    marzo 2005, n. 82. Una copia è accessibile su `Docs Italia<https://docs.italia.it/italia/piano-triennale-ict/codice-amministrazione-digitale-docs/>`_.
 
 Code Hosting (strumento di)
     Una piattaforma che consente la pubblicazione di codice sorgente,
     organizzato in più repository. Gli strumenti di code hosting offrono
     spesso anche funzionalità legate all'evoluzione di un *software* quali
-    sistemi di ticketing, processi per la contribuzione di codice da
+    sistemi di ticketing (ovvero sistemi per tenere traccia di problemi o
+    proposte di modifica), processi per la contribuzione di codice da
     parte di terzi, area per il download dei rilasci, ecc.
 
 Codice sorgente
@@ -46,9 +48,21 @@ Interoperabilità
     sulla base di regole condivise.
 
 Licenza
-    In ambito informatico, il testo legale con il quale si concedono
-    determinati diritti sul *software* e sui dati distribuiti, che
-    altrimenti sarebbero riservati da diritti di privativa.
+    Il testo legale che permette al titolare dei diritti d'autore di
+    un'opera (software, contenuti, dati, ...) di concedere determinati
+    diritti anche agli utilizzatori finali.
+    In assenza di una licenza esplicita, si assume generalmente
+    «tutti i diritti riservati» e gli utilizzatori finali non possono
+    usare, studiare, modificare o diffondere l'opera senza un permesso
+    scritto fornito dal titolare dei diritti.
+
+Licenza aperta o Licenza Open Source
+    Una licenza aperta è una licenza che concede al pubblico, i diritti di
+    uso, copia, modifica, distribuzione di copie anche modificate, del
+    software; per fare ciò, è necessario anche che il codice sorgente
+    sia liberamente disponibile.
+    L'ente certificatore delle licenze *software* corrispondenti a questa
+    definizione è `Open Source Initiative (OSI)<https://opensource.org/licenses/alphabetical>`_.
 
 Lock-in
     Fenomeno di natura tecnica ed economica in cui un generico utente non riesce a
@@ -62,16 +76,9 @@ Lock-in
     di lock-in.
 
 Open Source
-    È una modalità con cui il *software* può essere concesso in licenza.
-    Si realizza attraverso la concessione al pubblico, dei diritti di
-    uso, copia, modifica, distribuzione di copie anche modificate, del
-    software; per fare ciò, è necessario anche che il codice sorgente
-    sia liberamente disponibile. Altrimenti detto "software libero",
-    "software aperto" o "software rilasciato sotto licenza aperta".
-    L'ente certificatore delle licenze *software* corrispondenti a questa
-    definizione è Open Source Initiative (OSI).
+    Vedi: Software libero.
 
-Repertorio o Repository
+Repertorio o Repository o Deposito (di codice sorgente)
     All'interno di uno strumento di code-hosting, un repository è
     l'unità minima di contenimento del codice sorgente di un software.
     Il termine "repertorio" è la sua traduzione italiana (usata per
@@ -88,10 +95,15 @@ Riuso
 
 SaaS
     *Software* as a Service. Indica una modalità di distribuzione del
-    *software* che non viene installato sulle postazioni degli operatori,
-    ma che avviene attraverso l'accesso remoto a un server, per esempio
-    collegandosi con un browser ad un indirizzo. Wikipedia, per esempio,
-    è un *software* distribuito in modalità *software* as a Service.
+    *software* in cui questo non viene installato sui computer o sui server del
+    cliente finale ma che viene fruito direttamente dai server del fornitore
+    al quale si delegano gestione dell'infrastruttura, manutenzione,
+    aggiornamenti, etc. Tipicamente, si tratta di applicativi web.
+
+Software libero
+    È una modalità con cui il *software* può essere concesso in licenza.
+    Un software è detto libero o open source se è rilasciato con licenza
+    aperta (v. Licenza aperta)
 
 Software proprietario
     *Software* che ha restrizioni sul suo utilizzo, sulla sua modifica,
