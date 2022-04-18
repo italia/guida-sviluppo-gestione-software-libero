@@ -47,8 +47,8 @@ attenzione nel garantire la sovranità tecnologica - che consente loro di
 impostare e controllare il funzionamento del software pubblico proprio
 come sono in grado di impostare e controllare la politica, pubblica. I
 cittadini e gli attori della società civile hanno bisogno che il
-software sia trasparente e responsabile e che sia quindi progettato e
-come un’ infrastruttura civica essenziale che rispetti i loro diritti.
+software sia trasparente e responsabile e che sia quindi progettato
+come un’infrastruttura civica essenziale, che rispetti i loro diritti.
 
 .. toctree::
   :maxdepth: 3
