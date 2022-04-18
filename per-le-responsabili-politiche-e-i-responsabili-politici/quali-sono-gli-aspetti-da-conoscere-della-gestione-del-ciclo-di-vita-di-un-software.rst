@@ -21,8 +21,8 @@ amministrazioni <https://www.agid.gov.it/it/design-servizi/riuso-open-source/lin
 Secondo tale schema, una PA titolare di un software, lo deve rilasciare
 come open source su un repository pubblico. Dopo il rilascio è
 probabile, e anzi auspicabile, che altre sviluppatrici e sviluppatori
-contribuiscano al codice con dei bug fix, degli enhancement o con nuove
-funzionalità.
+contribuiscano allo sviluppo software risolvendo problemi o aggiungendo
+nuove funzionalità.
 
 È bene che questo tipo di contributi, una volta esaminati e valutati da
 un punto di vista architetturale rispetto alla struttura della soluzione

@@ -68,7 +68,8 @@ aspetti:
 -  i modelli di business del software libero e il loro valore per i
    fornitori e per la Pubblica Amministrazione;
 
--  le migliori tecniche per sviluppare software in un ambiente aperto;
+-  le migliori tecniche per sviluppare software libero e per interagire con
+   altri soggetti interessati allo sviluppo;
 
 -  quali aspetti cambiano e a quali aspetti fare maggiore attenzione per
    migliorare le relazioni tra Pubblica Amministrazione e i fornitori;
