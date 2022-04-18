@@ -8,7 +8,7 @@ fine di migliorare la comprensione del documento.
 
 CAD
     Il Codice dell'Amministrazione Digitale, ovvero il Decreto Legislativo 7
-    marzo 2005, n. 82. Una copia è accessibile su `Docs Italia<https://docs.italia.it/italia/piano-triennale-ict/codice-amministrazione-digitale-docs/>`_.
+    marzo 2005, n. 82. Una copia è accessibile su `Docs Italia <https://docs.italia.it/italia/piano-triennale-ict/codice-amministrazione-digitale-docs/>`__.
 
 Code Hosting (strumento di)
     Una piattaforma che consente la pubblicazione di codice sorgente,
@@ -30,6 +30,16 @@ Community
     forum, chat e tecnologie per riunirsi e interagire in una località
     virtuale), dotata di regole e di una struttura, finalizzata alla
     realizzazione e/o gestione di un progetto comune.
+
+Ecosistema di sviluppo
+    L'insieme di soggetti, strumenti tecnologici, strumenti di comuncazione,
+    collaborazione e modelli di governance coinvolti nello sviluppo
+    di un particolare software.
+    
+Ecosistema aperto di sviluppo
+    Un ecosistema di sviluppo è detto aperto quando i soggetti coinvolti nello
+    sviluppo di un software libero collaborano attraverso strumenti accessibili
+    al pubblico.
 
 Formato aperto (di dato)
     È un formato di dato pubblico, versionato, documentato
@@ -62,7 +72,7 @@ Licenza aperta o Licenza Open Source
     software; per fare ciò, è necessario anche che il codice sorgente
     sia liberamente disponibile.
     L'ente certificatore delle licenze *software* corrispondenti a questa
-    definizione è `Open Source Initiative (OSI)<https://opensource.org/licenses/alphabetical>`_.
+    definizione è `Open Source Initiative (OSI) <https://opensource.org/licenses/alphabetical>`__.
 
 Lock-in
     Fenomeno di natura tecnica ed economica in cui un generico utente non riesce a
