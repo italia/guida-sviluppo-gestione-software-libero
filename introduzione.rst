@@ -51,16 +51,18 @@ in un ente pubblico. Ricordiamo infatti che il CAD impone alle pubbliche
 amministrazioni di adottare software libero ogni qual volta sia
 possibile, e l'eventuale non adozione deve essere adeguatamente motivata
 da un atto formale depositato e protocollato all'interno della
-"valutazione comparativa".
+"valutazione comparativa". Alle disposizioni del CAD si sono aggiunte nel 2019
+le "Linee guida su acquisizione e riuso di software per le pubbliche amministrazioni"
+che hanno introdotto un nuovo modello allineato alle migliori pratiche
+internazionali per acquisire, modificare e condividere soluzioni software.
 
-Lo scopo di questa guida **è quello di supportare concretamente e
-operativamente le Pubbliche Amministrazioni italiane** a districarsi in
-un contesto nuovo e potenzialmente complesso, offrendo **soluzioni
-pratiche apprese sul campo.** Il fine è di massimizzare la semplicità e
-l’efficacia delle iniziative volte a utilizzare software libero già
-esistente, creare (o co-creare) nuovi strumenti per le esigenze
-pubbliche, condividere esperienze, risorse e attrarre nuovi sviluppatori
-grazie agli ecosistemi aperti.
+Lo scopo di questa guida **è quello di supportare concretamente le
+Pubbliche Amministrazioni italiane** in un contesto nuovo e potenzialmente
+complesso, offrendo **soluzioni pratiche apprese sul campo**. Il fine è di
+massimizzare la semplicità e l’efficacia delle iniziative volte a utilizzare
+software libero già esistente, creare (o co-creare) nuovi strumenti per le
+esigenze pubbliche, condividere esperienze, risorse e attrarre nuovi sviluppatori
+grazie all'utilizzo di sistemi di sviluppo e collaborazione pubblici.
 
 Abbiamo provato a fondere l’expertise e la conoscenza delle metodologie
 Open Source delle esperte e degli esperti del Dipartimento per la
