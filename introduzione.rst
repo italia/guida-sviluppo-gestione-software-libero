@@ -42,7 +42,7 @@ da un atto formale depositato e protocollato all'interno della
 "valutazione comparativa".
 
 Lo scopo di questa guida **è supportare concretamente e
-operativamente le Pubbliche Amministrazioni italiane** a districarsi in
+le Pubbliche Amministrazioni italiane** in
 un contesto nuovo e potenzialmente complesso, offrendo **soluzioni
 pratiche apprese sul campo.** Il fine è di massimizzare la semplicità e
 l’efficacia delle iniziative volte a utilizzare software libero già
