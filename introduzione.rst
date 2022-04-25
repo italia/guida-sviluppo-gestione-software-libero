@@ -29,7 +29,7 @@ software per scopi pubblici può usare questo documento per realizzare
 presenti meno rischi sia in termini operativi che di lock-in verso un
 particolare fornitore, rispettando i principi imposti dalla legge di
 *economicità e di efficienza, tutela degli investimenti, riuso e
-neutralità tecnologica* (art. 68 del CAD).
+neutralità tecnologica* (art. 68 del Codice dell'Amministrazione Digitale).
 
 A cosa serve questa guida
 -------------------------

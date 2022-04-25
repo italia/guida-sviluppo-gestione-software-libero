@@ -1,5 +1,5 @@
-Per le responsabili politiche e i responsabili politici
-=======================================================
+Per chi ha responsabilità politiche
+===================================
 
 A chi si rivolge questo capitolo
 --------------------------------
@@ -49,7 +49,7 @@ come sono in grado di impostare e controllare la politica, pubblica.
 Il software deve essere gestito in modo responsabile, trasparente e
 nel rispetto dei diritti delle persone e degli attori della società 
 civile.  Chi progetta il software deve pertanto tenere conto che si
-tratta di un’infrastruttura civica essenziale.»
+tratta di un’infrastruttura civica essenziale.
 
 .. toctree::
   :maxdepth: 3
