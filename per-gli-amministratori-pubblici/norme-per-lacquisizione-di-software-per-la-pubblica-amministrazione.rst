@@ -23,7 +23,7 @@ possono essere:
 
 -  sviluppo ex-novo di una soluzione.
 
-Nel caso in cui la PA decida di acquisire software in licenza o di
+Nel caso in cui la PA decida di acquisire software proprietario o di
 svilupparne uno nuovo (vale a dire nel caso in cui non sfrutti il riuso
 di una soluzione già disponibile o di un software open source di terze
 parti) deve motivare tale scelta attraverso la redazione di una

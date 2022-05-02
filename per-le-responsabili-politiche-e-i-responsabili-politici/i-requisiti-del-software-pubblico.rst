@@ -1,14 +1,9 @@
 I requisiti del software pubblico
 =================================
 
-Il software pubblico deve quindi essere:
-
--  trasparente;
-
--  responsabile, nel senso di *accountable*;
-
-Le amministratrici e gli amministratori pubblici, nonché le cittadine e
-i cittadini devono poter verificare facilmente il rispetto delle norme.
+Il software pubblico deve quindi essere trasparente; chi ha responsabilità
+amministrative, nonché la collettività, devono
+poter verificare facilmente il rispetto delle norme.
 
 Il software deve riflettere i valori insiti nelle norme della società,
 ad esempio deve essere inclusivo, **non discriminatorio e rispettoso

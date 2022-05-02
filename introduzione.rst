@@ -41,8 +41,8 @@ possibile, e l'eventuale non adozione deve essere adeguatamente motivata
 da un atto formale depositato e protocollato all'interno della
 "valutazione comparativa".
 
-Lo scopo di questa guida **è quello di supportare concretamente e
-operativamente le Pubbliche Amministrazioni italiane** a districarsi in
+Lo scopo di questa guida **è supportare concretamente
+le Pubbliche Amministrazioni italiane** in
 un contesto nuovo e potenzialmente complesso, offrendo **soluzioni
 pratiche apprese sul campo.** Il fine è di massimizzare la semplicità e
 l’efficacia delle iniziative volte a utilizzare software libero già
@@ -68,7 +68,8 @@ aspetti:
 -  i modelli di business del software libero e il loro valore per i
    fornitori e per la Pubblica Amministrazione;
 
--  le migliori tecniche per sviluppare software in un ambiente aperto;
+-  le migliori tecniche per sviluppare software libero e per interagire con
+   altri soggetti interessati allo sviluppo;
 
 -  quali aspetti cambiano e a quali aspetti fare maggiore attenzione per
    migliorare le relazioni tra Pubblica Amministrazione e i fornitori;

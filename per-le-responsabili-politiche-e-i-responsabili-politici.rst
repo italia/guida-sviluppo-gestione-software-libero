@@ -1,5 +1,5 @@
-Per le responsabili politiche e i responsabili politici
-=======================================================
+Per chi ha responsabilità politiche
+===================================
 
 A chi si rivolge questo capitolo
 --------------------------------
@@ -45,10 +45,11 @@ effettuare correzioni tempestive qualora emergessero criticità.
 Negli ultimi anni i governi europei hanno posto una particolare
 attenzione nel garantire la sovranità tecnologica - che consente loro di
 impostare e controllare il funzionamento del software pubblico proprio
-come sono in grado di impostare e controllare la politica, pubblica. I
-cittadini e gli attori della società civile hanno bisogno che il
-software sia trasparente e responsabile e che sia quindi progettato
-come un’infrastruttura civica essenziale, che rispetti i loro diritti.
+come sono in grado di impostare e controllare la politica, pubblica.
+Il software deve essere gestito in modo responsabile, trasparente e
+nel rispetto dei diritti delle persone e degli attori della società 
+civile.  Chi progetta il software deve pertanto tenere conto che si
+tratta di un’infrastruttura civica essenziale.
 
 .. toctree::
   :maxdepth: 3

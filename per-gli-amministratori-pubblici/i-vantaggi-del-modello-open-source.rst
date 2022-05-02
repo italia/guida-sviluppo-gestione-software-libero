@@ -1,10 +1,11 @@
 I vantaggi del modello open source
 ==================================
 
-L’open source offre un modello di sviluppo migliore rispetto al
-tradizionale approvvigionamento di software, sia per le organizzazioni
-pubbliche che per le società private. L’uso dell’open source aumenta il
-controllo locale e le opportunità di mercato.
+L’open source offre un modello di sviluppo alternativo e spesso migliore
+rispetto al software proprietario, sia per le organizzazioni pubbliche
+che per le società private. L’uso dell’open source aumenta il controllo
+sulla propria possibilità di operare, la qualità delle soluzioni, e
+può essere un volano per aumentare le possibilità di business.
 
 Progettato sin dall'inizio per essere aperto, adattabile e per garantire
 la portabilità dei dati, il software può essere sviluppato da personale
@@ -26,9 +27,13 @@ crescente domanda di tecnologia.
 Il software *open source* può essere utilizzato e sviluppato da team di
 sviluppo interni permanenti, appaltatori o fornitori in outsourcing.
 Inoltre, i fornitori delle organizzazioni pubbliche possono includere
-l’open source nelle loro offerte per contratti.
+l’open source nelle loro offerte.
 
-Tutte le volte che si progetta un nuovo servizio digitale, si possono
-usare codice o componenti *open source* già pronti. In questi casi è
-utile specificare in fase di definizione del progetto che la nuova
-soluzione dovrà basarsi su soluzioni aperte, così come indicato dal CAD.
+Nella quasi totalità delle situazioni quando si progetta un nuovo servizio
+digitale si possono usare almeno in parte codice o componenti
+*open source* già pronti, o ci si può basare su di essi in modo importante.
+
+È dunque utile specificare in fase di definizione di progetti digitali
+non solo che i nuovi sviluppi dovranno essere rilasciati con licenza aperta,
+così come richiesto dal CAD, ma anche che la soluzione dovrà basarsi
+unicamente o quanto più possibile su componenti *open source*.
