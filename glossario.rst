@@ -15,12 +15,14 @@ Code Hosting (strumento di)
     sistemi di ticketing (ovvero sistemi per tenere traccia di problemi o
     proposte di modifica), processi per la contribuzione di codice da
     parte di terzi, area per il download dei rilasci, ecc.
+    
+    Ad esempio, GitLab, GitHub e Bitbucket sono piattaforme di code hosting popolari.
 
 Codice sorgente
     Il codice sorgente (spesso detto semplicemente "sorgente") è il
     testo di un programma scritto in un linguaggio di programmazione
     (es. C o Visual Basic) dal quale si deriva il programma finale che
-    l'utente usa. L'accesso al codice sorgente è essenziale per poter
+    l'utente usa. L'accesso al codice sorgente è fondamentale per poter
     modificare un programma.
 
 Community
@@ -40,19 +42,21 @@ Ecosistema aperto di sviluppo
     al pubblico.
 
 Formato aperto (di dato)
-    È un formato di dato pubblico, versionato, documentato
+    È un formato di rappresentazione dei dati, versionato, documentato
     esaustivamente e senza vincoli all'implementazione. Un formato
-    aperto è un formato riconosciuto da un ente di standardizzazione e
+    aperto è riconosciuto da un ente di standardizzazione e
     mantenuto in modo condiviso tra più enti che forniscono
     implementazioni concorrenti, con un processo trasparente. Il formato
     deve rimanere consistente con la versione dichiarata.
+    
+    JPEG, PNG e ODF sono alcuni esempi di formati aperti.
 
 Formato di dato
     Modalità di rappresentazione del dato.
 
 Interoperabilità
     In ambito informatico, la capacità di sistemi differenti e autonomi
-    di cooperare e di scambiare informazioni in maniera automatica,
+    di cooperare e di scambiare informazioni in maniera automatica e strutturata,
     sulla base di regole condivise.
 
 Licenza
@@ -65,9 +69,8 @@ Licenza
     scritto fornito dal titolare dei diritti.
 
 Licenza aperta o Licenza Open Source
-    Una licenza aperta è una licenza che concede al pubblico, i diritti di
-    uso, copia, modifica, distribuzione di copie anche modificate, del
-    software; per fare ciò, è necessario anche che il codice sorgente
+    Nel caso del software, una licenza aperta è una licenza che concede a chiunqui usi un software, i diritti di
+    uso, copia, modifica, distribuzione di copie anche modificate; per fare ciò, è necessario anche che il codice sorgente
     sia liberamente disponibile.
     L'ente certificatore delle licenze *software* corrispondenti a questa
     definizione è `Open Source Initiative (OSI) <https://opensource.org/licenses/alphabetical>`__.
@@ -80,7 +83,7 @@ Lock-in
     dall'adozione di soluzioni proprietarie che impediscono di
     effettuare migrazioni. L'utilizzo di formati aperti per il
     salvataggio dei dati, e l'accesso libero a questi dati (soprattutto
-    nel caso di soluzioni SaaS) sono prerequisiti per evitare fenomeni
+    nel caso di soluzioni :term:`SaaS`) sono prerequisiti per evitare fenomeni
     di lock-in.
 
 Open Source
@@ -90,11 +93,11 @@ Repertorio o Repository o Deposito (di codice sorgente)
     All'interno di uno strumento di code-hosting, un repository è
     l'unità minima di contenimento del codice sorgente di un software.
     Il termine "repertorio" è la sua traduzione italiana (usata per
-    esempio nel CAD Art 69, comma 1).
+    esempio nel :term:`CAD` Art 69, comma 1).
 
 Riuso
     Nel contesto di questo documento, si intende il processo delineato
-    dal CAD (art. 69) con il quale una amministrazione distribuisce
+    dal :term:`CAD`  (art. 69) con il quale una amministrazione distribuisce
     ("mettere a riuso") un *software* di cui ha titolarità in Open Source,
     a favore di altre amministrazioni che possano utilizzarlo ("prendere
     a riuso"). Tutto il *software* a riuso è Open Source, ma non tutto il
@@ -120,7 +123,7 @@ Software proprietario
     diritti patrimoniali - il cessionario dei diritti in questione.
 
 TCO
-    Total Cost of Ownership: Approccio utilizzato per valutare tutti i
+    Total Cost of Ownership: approccio utilizzato per valutare tutti i
     costi del ciclo di vita di una risorsa IT calcolato su una finestra
     temporale adeguata al contesto della valutazione e che include il
     costo di migrazione verso altra soluzione (eg., acquisto,

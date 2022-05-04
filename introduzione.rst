@@ -40,8 +40,8 @@ sostanzialmente la stessa cosa”. Generalmente gli utilizzatori del
 termine software libero preferiscono porre un accento sull’aspetto
 etico del software, mentre chi preferisce “open source” ha un focus
 sull’aspetto pratico. A noi interessano entrambi gli aspetti, dunque
-useremo entrambi i termini in modo interscambiabile. Infatti, tutti
-i software open source sono anche software libero e viceversa.
+useremo entrambi i termini in modo interscambiabile. Infatti, praticamente
+tutti i software open source sono anche software libero e viceversa.
 
 A cosa serve questa guida
 -------------------------
