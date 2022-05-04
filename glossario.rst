@@ -51,9 +51,6 @@ Formato aperto (di dato)
     
     JPEG, PNG e ODF sono alcuni esempi di formati aperti.
 
-Formato di dato
-    Modalità di rappresentazione del dato.
-
 Interoperabilità
     In ambito informatico, la capacità di sistemi differenti e autonomi
     di cooperare e di scambiare informazioni in maniera automatica e strutturata,
@@ -87,7 +84,7 @@ Lock-in
     di lock-in.
 
 Open Source
-    Vedi: Software libero.
+    Vedi: Software libero. I due termini sono, a fini pratici, praticamente equivalenti.
 
 Repertorio o Repository o Deposito (di codice sorgente)
     All'interno di uno strumento di code-hosting, un repository è
