@@ -3,9 +3,6 @@
 Glossario
 ---------
 
-Segue un elenco di alcuni termini e del loro rispettivo significato, al
-fine di migliorare la comprensione del documento.
-
 CAD
     Il Codice dell'Amministrazione Digitale, ovvero il `Decreto Legislativo 7
     marzo 2005, n. 82 <https://docs.italia.it/italia/piano-triennale-ict/codice-amministrazione-digitale-docs/>`__,
