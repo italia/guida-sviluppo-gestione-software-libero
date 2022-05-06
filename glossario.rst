@@ -66,7 +66,7 @@ Licenza
     scritto fornito dal titolare dei diritti.
 
 Licenza aperta o Licenza Open Source
-    Nel caso del software, una licenza aperta è una licenza che concede a chiunqui usi un software, i diritti di
+    Nel caso del software, una licenza aperta è una licenza che concede a chiunque usi un software, i diritti di
     uso, copia, modifica, distribuzione di copie anche modificate; per fare ciò, è necessario anche che il codice sorgente
     sia liberamente disponibile.
     L'ente certificatore delle licenze *software* corrispondenti a questa
