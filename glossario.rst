@@ -32,7 +32,7 @@ Community
     realizzazione e/o gestione di un progetto comune.
 
 Ecosistema di sviluppo
-    L'insieme di soggetti, strumenti tecnologici, strumenti di comuncazione,
+    L'insieme di soggetti, strumenti tecnologici, strumenti di comunicazione,
     collaborazione e modelli di governance coinvolti nello sviluppo
     di un particolare software.
     
