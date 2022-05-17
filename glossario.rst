@@ -124,7 +124,7 @@ TCO
     costi del ciclo di vita di una risorsa IT calcolato su una finestra
     temporale adeguata al contesto della valutazione e che include il
     costo di migrazione verso altra soluzione (eg., acquisto,
-    installazione, gestione, manutenzione e smantellamento). L'approccio
+    installazione, gestione, manutenzione e smantellamento). Il calcolo del 
     TCO è basato sulla considerazione che il costo totale di utilizzo di
     risorsa IT non dipende solo dai costi di acquisto, ma anche da tutti
     i costi che intervengono durante l'intera vita di esercizio della
