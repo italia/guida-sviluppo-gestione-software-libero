@@ -11,7 +11,7 @@ software libero per i cittadini, le imprese e i propri enti.
 I vantaggi dell’open source
 ---------------------------
 
-Il software oggi è al centro delle moderne istituzioni
+Il software oggi è al centro delle istituzioni
 pubbliche, modella il lavoro dei dipendenti pubblici e influenza la vita
 di quasi tutte le cittadine e i cittadini. Non è più solo uno strumento
 a supporto del lavoro degli esseri umani, ma in alcuni casi li
