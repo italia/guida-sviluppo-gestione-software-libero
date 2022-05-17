@@ -31,18 +31,6 @@ particolare fornitore, rispettando i principi imposti dalla legge di
 *economicità e di efficienza, tutela degli investimenti, riuso e
 neutralità tecnologica* (art. 68 del CAD - Codice dell’amministrazione digitale).
 
-Il CAD si riferisce al software oggetto di questa guida con la dicitura
-"software libero o a codice sorgente aperto". In letteratura è anche diffuso
-il termine "open source". In effetti, come leggiamo su Wikipedia,
-l'Enciclopedia libera, “i termini software libero e open source vengono
-usati per indicare quella che è
-sostanzialmente la stessa cosa”. Generalmente gli utilizzatori del
-termine software libero preferiscono porre un accento sull’aspetto
-etico del software, mentre chi preferisce “open source” ha un focus
-sull’aspetto pratico. A noi interessano entrambi gli aspetti, dunque
-useremo entrambi i termini in modo interscambiabile. Infatti, praticamente
-tutti i software open source sono anche software libero e viceversa.
-
 A cosa serve questa guida
 -------------------------
 
