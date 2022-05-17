@@ -126,7 +126,7 @@ TCO
     costo di migrazione verso altra soluzione (eg., acquisto,
     installazione, gestione, manutenzione e smantellamento). Il calcolo del 
     TCO è basato sulla considerazione che il costo totale di utilizzo di
-    risorsa IT non dipende solo dai costi di acquisto, ma anche da tutti
+   una risorsa IT non dipende solo dai costi di acquisto, ma anche da tutti
     i costi che intervengono durante l'intera vita di esercizio della
     risorsa, comprese le attività di dismissione della stessa.
 
