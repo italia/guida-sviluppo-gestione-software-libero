@@ -13,13 +13,12 @@ indicare strumenti che possono essere utilizzati nello sviluppo di
 software libero.
 
 .. toctree::
-	:maxdepth: 3
-	:caption: Indice dei contenuti
+  :maxdepth: 3
+  :caption: Indice dei contenuti
 
   introduzione.rst
-  per-le-responsabili-politiche-e-i-responsabili-politici.rst
-  per-gli-amministratori-pubblici.rst
+  per-chi-ha-responsabilita-politiche.rst
+  per-chi-amministra-nel-pubblico.rst
   per-chi-sviluppa-il-software.rst
   bibliografia-sitografia.rst
   glossario.rst
-
