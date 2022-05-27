@@ -107,7 +107,7 @@ SaaS
 
 Software libero
     È una modalità con cui il *software* può essere concesso in licenza
-    (vedi :term`Licenza di software libero`)
+    (vedi :term:`Licenza di software libero`)
 
     Deve rispettare queste caratteristiche:
 
