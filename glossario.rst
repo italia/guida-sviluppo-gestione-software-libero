@@ -111,7 +111,7 @@ SaaS
 Software libero
     È una modalità con cui il *software* può essere concesso in licenza.
     Un software è detto libero o open source se è rilasciato con licenza
-    aperta (v. Licenza aperta)
+    di software libero (v. Licenza di software libero)
 
 Software proprietario
     *Software* che ha restrizioni sul suo utilizzo, sulla sua modifica,
