@@ -49,14 +49,13 @@ la preview sarà visibile all'indirizzo [http://localhost:8000/](http://localhos
 # Come contribuire
 
 Ogni contributo è benvenuto!
-E' possibile aprire delle issue per segnalare errori, problemi o per la
-richiesta di nuove funzionalità.
+È possibile aprire delle segnalazioni di errori o proposte [aprendo una nuova issue](https://github.com/italia/guida-sviluppo-gestione-software-libero/issues/new).
 Inoltre, è possibile aprire delle Pull Request per proporre direttamente delle
-modifiche.
+modifiche [in questo modo](https://docs.github.com/en/repositories/working-with-files/managing-files/editing-files#editing-files-in-another-users-repository).
 
 # Community
 
-E' possibile contattare i maintainer anche all'interno dello [Slack di Developers Italia](https://app.slack.com/client/T6C27AXE0/C9T4ELD4G/) oppure all'interno di [Forum Italia](https://forum.italia.it/c/software-open-source-per-la-pa/49).
+È possibile contattare i maintainer anche all'interno dello [Slack di Developers Italia](https://app.slack.com/client/T6C27AXE0/C9T4ELD4G/) oppure all'interno di [Forum Italia](https://forum.italia.it/c/software-open-source-per-la-pa/49).
 
 # Manutenzione 
 
