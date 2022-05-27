@@ -10,7 +10,7 @@
 > per chi gestisce, progetta e realizza i servizi pubblici digitali
 > italiani.
 
-# Leggi la guida su [Docs Italia](https://docs.italia.it/italia/developers-italia/guida-sviluppo-gestione-software-libero/it/stabile/index.html)
+# Leggi la guida su [Docs Italia](https://docs.italia.it/italia/developers-italia/guida-sviluppo-gestione-software-libero)
 
 # Contenuto
 
