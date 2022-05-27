@@ -31,7 +31,7 @@ amministratori pubblici, e così dev’essere per il software che
 sostituisce o collabora al loro lavoro.
 
 Nel 21° secolo, il software può essere considerato un'infrastruttura
-pubblica strategica. Basare i propri servizi su codice a licenza aperta,
+pubblica strategica. Basare i propri servizi su codice con licenza libera,
 mantiene in capo alla pubblica amministrazione (o a un suo fornitore
 scelto di volta in volta) la proprietà del codice e la facoltà di
 effettuare correzioni tempestive qualora emergessero criticità.
@@ -41,7 +41,7 @@ attenzione nel garantire la sovranità tecnologica - che consente loro di
 impostare e controllare il funzionamento del software pubblico proprio
 come sono in grado di impostare e controllare la politica, pubblica.
 Il software deve essere gestito in modo responsabile, trasparente e
-nel rispetto dei diritti delle persone e degli attori della società 
+nel rispetto dei diritti delle persone e degli attori della società
 civile.  Chi progetta il software deve pertanto tenere conto che si
 tratta di un’infrastruttura civica essenziale.
 

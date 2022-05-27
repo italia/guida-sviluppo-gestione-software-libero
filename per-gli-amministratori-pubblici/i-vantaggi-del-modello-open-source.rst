@@ -34,6 +34,6 @@ digitale si possono usare almeno in parte codice o componenti
 *open source* già pronti, o ci si può basare su di essi in modo importante.
 
 È dunque utile specificare in fase di definizione di progetti digitali
-non solo che i nuovi sviluppi dovranno essere rilasciati con licenza aperta,
+non solo che i nuovi sviluppi dovranno essere rilasciati con licenza libera,
 così come richiesto dal CAD, ma anche che la soluzione dovrà basarsi
 unicamente o quanto più possibile su componenti *open source*.

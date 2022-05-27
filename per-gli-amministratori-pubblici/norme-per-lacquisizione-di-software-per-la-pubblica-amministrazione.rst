@@ -53,7 +53,7 @@ Diagramma esemplificativo della **fase di sviluppo**:
 2. La PA “A” acquisisce la completa titolarità di quanto sviluppato.
 
 3. La PA “A” incarica lo sviluppatore di pubblicare il codice sorgente
-   completo della soluzione con licenza aperta, durante o al termine
+   completo della soluzione con licenza libera, durante o al termine
    della lavorazione, su uno strumento di code hosting.
 
 4. `Il software viene “registrato” su Developers
@@ -87,7 +87,7 @@ Diagramma esplicativo della **fase di riuso**:
 
 In generale, rispetto a questo modello di riuso possiamo sottolineare
 che le Pubbliche Amministrazioni “A” e “B” **non devono neppure
-contattarsi.** La licenza aperta regola le condizioni di utilizzo del
+contattarsi.** La licenza libera regola le condizioni di utilizzo del
 software. Il software può essere scritto da uno sviluppatore e
 personalizzato da un altro, questo elimina i vincoli e i “lock-in”. La
 parte tecnica di pubblicazione è sempre demandata agli sviluppatori

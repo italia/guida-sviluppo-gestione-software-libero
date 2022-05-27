@@ -32,6 +32,6 @@ la qualità del proprio software e al contempo evitare la proliferazione
 di versioni alternative.
 
 Questo consente la possibilità di creare partnership tra enti e
-istituzioni usando soltanto la forza dei termini di licenza aperta e
+istituzioni usando soltanto la forza dei termini di licenza libera e
 senza bisogno di accordi bilaterali o altre soluzioni ad hoc, mettendo
 in comune risorse e idee a tutto vantaggio dei cittadini.
