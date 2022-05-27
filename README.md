@@ -64,5 +64,6 @@ Il Team di Developers Italia mantiene attivamente la guida.
 
 # Licenza 
 
-Copyright (c) 2020 - Presidenza del Consiglio dei Ministri.
+Copyright © 2022- [I rispettivi contributori](https://github.com/italia/guida-sviluppo-gestione-software-libero/graphs/contributors).
+
 Questa guida è rilasciata con una licenza CC BY 4.0. 
