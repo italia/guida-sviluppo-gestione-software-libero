@@ -84,7 +84,7 @@ Lock-in
     di lock-in.
 
 Open Source
-    Vedi: Software libero. I due termini sono, a fini pratici, praticamente equivalenti.
+Un software può essere definito open source quando è coperto da una licenza open source (vedi Licenze di Software Libero e Open Source)
 
 Repertorio o Repository o Deposito (di codice sorgente)
     All'interno di uno strumento di code-hosting, un repository è
