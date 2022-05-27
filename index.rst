@@ -21,4 +21,5 @@ software open source.
   per-gli-amministratori-pubblici.rst
   per-chi-sviluppa-il-software.rst
   bibliografia-sitografia.rst
+  glossario.rst
 

@@ -98,7 +98,7 @@ livello europeo, l’attenzione al software libero è molto cresciuta e ha
 contribuito alla nascita di numerose iniziative. Ad esempio, la
 Commissione Europea ha promosso diversi programmi finalizzati a favorire
 il riuso di soluzioni software e la loro interoperabilità (si veda
-l’\ `iniziativa ISA² <https://ec.europa.eu/isa2/isa2_en>`__ o
+l’\ iniziativa ISA² o
 l'\ `osservatorio
 OSOR <https://joinup.ec.europa.eu/collection/open-source-observatory-osor>`__)
 e incentivato l’uso e la contribuzione a progetti open source al proprio
