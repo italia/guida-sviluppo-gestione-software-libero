@@ -8,8 +8,8 @@ Questo capitolo si rivolge a chi si occupa di fornire indirizzi politici
 alla pubblica amministrazione per spiegare i vantaggi dell'utilizzo di
 software libero per i cittadini, le imprese e i propri enti.
 
-I vantaggi dell’open source
----------------------------
+I vantaggi del software libero
+------------------------------
 
 Il software oggi è al centro delle istituzioni
 pubbliche, modella il lavoro dei dipendenti pubblici e influenza la vita
@@ -23,7 +23,7 @@ rinforzi dei servizi di pubblica sicurezza).
 
 Per questi motivi il codice applicativo dovrebbe essere soggetto ai
 principi di controllo e governance democratici allo stesso modo del
-codice legale. L'open source, grazie alla disponibilità pubblica del
+codice legale. Il software libero, grazie alla disponibilità pubblica del
 codice, è particolarmente indicato a soddisfare queste relazioni. Per il
 principio della trasparenza amministrativa [1]_, deve essere sempre
 possibile verificare l’applicazione delle norme da parte degli
@@ -51,9 +51,9 @@ tratta di un’infrastruttura civica essenziale.
 
   per-le-responsabili-politiche-e-i-responsabili-politici/gli-svantaggi-del-software-proprietario.rst
   per-le-responsabili-politiche-e-i-responsabili-politici/i-requisiti-del-software-pubblico.rst
-  per-le-responsabili-politiche-e-i-responsabili-politici/i-vantaggi-di-riutilizzare-un-software-open-source.rst
+  per-le-responsabili-politiche-e-i-responsabili-politici/i-vantaggi-di-riutilizzare-un-software-libero.rst
   per-le-responsabili-politiche-e-i-responsabili-politici/quali-sono-gli-aspetti-da-conoscere-della-gestione-del-ciclo-di-vita-di-un-software.rst
-  per-le-responsabili-politiche-e-i-responsabili-politici/contribuire-al-software-open-source-sviluppato-da-altri.rst
+  per-le-responsabili-politiche-e-i-responsabili-politici/contribuire-a-software-libero-sviluppato-da-altri.rst
   per-le-responsabili-politiche-e-i-responsabili-politici/cosa-può-fare-in-concreto-chi-ha-responsabilità-politiche.rst
 
 .. [1]

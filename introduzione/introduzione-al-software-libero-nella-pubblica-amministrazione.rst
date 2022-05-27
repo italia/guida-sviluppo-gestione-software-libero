@@ -1,17 +1,14 @@
 Introduzione al software libero nella Pubblica Amministrazione
 ==============================================================
 
-Che cos'è il software libero, o open source?
---------------------------------------------
+Che cos'è il software libero
+----------------------------
 
-Il software si definisce libero o open source se il suo codice sorgente
+Il software si definisce libero se il suo codice sorgente
 è distribuito agli utenti ed è corredato da una licenza libera, ovvero
 una licenza che ne permette il riutilizzo e la modifica per qualsiasi
 fine da parte di qualunque soggetto (pubblico o privato), richiedendo al
-più condizioni minimali (come la citazione degli autori originali). In
-particolare, esiste un ente internazionale (Open Source Initiative)
-deputato a certificare quali licenze possono dirsi a tutti gli effetti
-"open source".
+più condizioni minimali (come la citazione degli autori originali).
 
 In Italia, questa definizione è presente nella normativa grazie al
 concetto di "licenza aperta" introdotta nell'articolo 69 del Codice
@@ -39,7 +36,7 @@ tradizionale. Dalla revisione del 2017, e in particolar modo dalla
 pubblicazione delle `Linee guida su acquisizione e riuso di software per
 le pubbliche
 amministrazioni <https://docs.italia.it/italia/developers-italia/lg-acquisizione-e-riuso-software-per-pa-docs/it/stabile/index.html>`__
-, viene invece assegnato al software “open source” o “software libero”
+, viene invece assegnato al *software* libero
 un’importanza strategica per lo sviluppo sostenibile dei servizi
 pubblici e in generale per l’industria digitale del nostro paese, sia in
 fase di acquisizione (creando una corsia preferenziale per
@@ -65,7 +62,7 @@ facciano diventare gli attori principali di questa trasformazione.
 Questo nuovo modello “a sviluppo aperto” è stato creato dopo l'analisi
 delle migliori pratiche industriali e con la consapevolezza
 dell’importanza che ricopre la creazione di un ecosistema di know-how
-che sappia operare in un contesto open source e che coinvolga tutti i
+che sappia operare in un contesto di *software* libero e che coinvolga tutti i
 soggetti interessati, al fine di effettuare una transizione digitale
 sostenibile e che generi benefici a tutto il Paese.
 
@@ -73,7 +70,7 @@ Il modello non è appannaggio esclusivo del nostro Paese - con questi
 presupposti anche molti altri (ad esempio qui le iniziative di
 `Francia <https://www.etalab.gouv.fr/>`__, `Regno
 Unito <https://gds.blog.gov.uk/>`__, `USA <http://code.gov/>`__) hanno
-avviato politiche nazionali per favorire l’uso dell’open source
+avviato politiche nazionali per favorire l’uso del *software* libero
 all’interno della pubblica amministrazione.
 
 La licenza libera, seppur condizione necessaria per creare sistemi di
@@ -84,24 +81,23 @@ procurement pubblico e stabilendo delle linee guida generali per aderire
 alle migliori pratiche internazionali.
 
 Questa è una guida pratica, per cui non ci dilungheremo ulteriormente in
-spiegazioni sui benefici strutturali dell’open source (che possono
+spiegazioni sui benefici strutturali del *software* libero (che possono
 essere reperiti tra i documenti `della Commissione
 Europea <https://digital-strategy.ec.europa.eu/en/library/study-about-impact-open-source-software-and-hardware-technological-independence-competitiveness-and>`__
 e `del
 MITD <https://innovazione.gov.it/notizie/articoli/il-valore-dell-open-source-per-un-europa-digitale-indipendente-e-competitiva/>`__)
 
-A livello internazionale, l’utilizzo di Free/Libre and Open Source
-Software (FLOSS) si è molto diffuso e in numerosi casi ha sostituito il
-ricorso a soluzioni proprietarie chiuse. I vantaggi di questo approccio
-sono sia di natura tecnica che di natura economica e strategica. Anche a
-livello europeo, l’attenzione al software libero è molto cresciuta e ha
-contribuito alla nascita di numerose iniziative. Ad esempio, la
+A livello internazionale, l’utilizzo di *software* libero si è molto diffuso
+e in numerosi casi ha sostituito il ricorso a soluzioni proprietarie chiuse.
+I vantaggi di questo approccio sono sia di natura tecnica che di natura economica
+e strategica. Anche a livello europeo, l’attenzione al *software* libero è molto
+cresciuta e ha contribuito alla nascita di numerose iniziative. Ad esempio, la
 Commissione Europea ha promosso diversi programmi finalizzati a favorire
 il riuso di soluzioni software e la loro interoperabilità (si veda
 l’\ iniziativa ISA² o
 l'\ `osservatorio
 OSOR <https://joinup.ec.europa.eu/collection/open-source-observatory-osor>`__)
-e incentivato l’uso e la contribuzione a progetti open source al proprio
+e incentivato l’uso e la contribuzione a progetti di *software* libero al proprio
 interno, come testimonia la `strategia 2020-23 della
 CE <https://ec.europa.eu/info/departments/informatics/open-source-software-strategy_en>`__.
 Queste iniziative puntano a migliorare la qualità dei servizi pubblici,

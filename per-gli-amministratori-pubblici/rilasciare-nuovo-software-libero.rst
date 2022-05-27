@@ -1,9 +1,9 @@
-Rilasciare un nuovo software open source
-========================================
+Rilasciare nuovo software libero
+================================
 
-Dopo aver presentato i benefici del software open source, in questo
+Dopo aver presentato i benefici del *software* libero, in questo
 capitolo viene descritta una possibile modalità di pubblicazione del
-proprio software in open source.
+proprio software come *software* libero.
 
 Scegliere una piattaforma di code hosting
 -----------------------------------------
@@ -12,11 +12,11 @@ Le pubbliche amministrazioni dovrebbero scegliere un sistema di
 controllo delle versioni basato sul sistema git, prendendo in
 considerazione l'utilizzo di una delle seguenti piattaforme di code
 hosting, in base alle loro funzionalità e all'adozione significativa da
-parte della comunità open source di riferimento.
+parte della comunità di *software* libero di riferimento.
 
 Esistono piattaforme di code hosting sia on-premises che SaaS (anche a
 utilizzo gratuito). Tra queste ultime citiamo le più scelte tra i
-progetti open source moderni:
+progetti liberi moderni:
 
 -  GitLab - `https://gitlab.com <https://gitlab.com/>`__
 
@@ -338,7 +338,7 @@ Scegliere e dichiarare la licenza
 
 È fondamentale operare la scelta della licenza nel momento della nascita
 del progetto. Oltre al fatto che un progetto senza licenza non può
-essere considerato open source (a prescindere dalla leggibilità del suo
+essere considerato *software* libero (a prescindere dalla leggibilità del suo
 codice sorgente) possono emergere problemi nel caso dovessero
 sopravvenire modifiche o suggerimenti di miglioramento. In questo caso
 la licenza dei contributi non sarebbe chiara e questo potrebbe
@@ -363,7 +363,7 @@ Source <https://docs.italia.it/italia/developers-italia/lg-acquisizione-e-riuso-
 Accettare dei contributi dopo il rilascio
 -----------------------------------------
 
-Dopo aver rilasciato una soluzione in open source per il riuso, è molto
+Dopo aver rilasciato un *software* libero per il riuso, è molto
 probabile che qualche altro soggetto o amministrazione la voglia
 utilizzare per i propri scopi. In questo riutilizzo, il codice potrebbe
 ricevere contributi di miglioramento, correzioni di errori o sviluppo di

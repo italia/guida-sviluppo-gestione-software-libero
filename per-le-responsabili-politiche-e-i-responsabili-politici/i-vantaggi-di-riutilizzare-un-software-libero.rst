@@ -1,8 +1,7 @@
-I vantaggi di riutilizzare un software open source
-==================================================
+I vantaggi di riutilizzare un software libero
+=============================================
 
-Riutilizzare il software tramite l’open source comporta diversi
-vantaggi. I principali sono:
+Riutilizzare il software libero comporta diversi vantaggi. I principali sono:
 
 -  il miglioramento incrementale della qualità possibile grazie a una
    costante evoluzione, anche collaborativa, del software libero;

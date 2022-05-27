@@ -1,7 +1,7 @@
 Quando devo rilasciare il mio software?
 =======================================
 
-Sviluppare in modo aperto, o utilizzando i paradigmi dell’open source,
+Sviluppare in modo aperto, o utilizzando i paradigmi del *software* libero
 non significa solo condividere il codice ma anche potenzialmente aprire
 ad un pubblico più ampio l’intero processo di sviluppo. Aprendo il
 processo si consente a soggetti terzi, anche della stessa

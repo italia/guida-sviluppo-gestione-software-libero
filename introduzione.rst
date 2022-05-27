@@ -52,8 +52,8 @@ software libero già esistente, creare (o co-creare) nuovi strumenti per le
 esigenze pubbliche, condividere esperienze, risorse e attrarre nuovi sviluppatori
 grazie all'utilizzo di sistemi di sviluppo e collaborazione pubblici.
 
-Abbiamo provato a fondere l’expertise e la conoscenza delle metodologie
-Open Source delle esperte e degli esperti del Dipartimento per la
+Abbiamo provato a fondere l’expertise e la conoscenza del *software*
+libero delle esperte e degli esperti del Dipartimento per la
 trasformazione digitale (DTD) con l’importante esperienza e i bisogni di
 coloro che operano a vario titolo nelle pubbliche amministrazioni.
 
@@ -64,7 +64,7 @@ In questa guida vogliamo fornire una panoramica complessiva di tutti gli
 elementi in gioco, e ci soffermeremo in particolare sui seguenti
 aspetti:
 
--  dove trovare i migliori strumenti di software open source e in base a
+-  dove trovare i migliori strumenti di software libero e in base a
    quali criteri valutarli
 
 -  i modelli di business del software libero e il loro valore per i
