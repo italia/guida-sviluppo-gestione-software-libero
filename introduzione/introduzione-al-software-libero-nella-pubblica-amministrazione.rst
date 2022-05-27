@@ -84,7 +84,7 @@ procurement pubblico e stabilendo delle linee guida generali per aderire
 alle migliori pratiche internazionali.
 
 Questa è una guida pratica, per cui non ci dilungheremo ulteriormente in
-spiegazioni dei benefici strutturali dell’open source (che possono
+spiegazioni sui benefici strutturali dell’open source (che possono
 essere reperiti tra i documenti `della Commissione
 Europea <https://digital-strategy.ec.europa.eu/en/library/study-about-impact-open-source-software-and-hardware-technological-independence-competitiveness-and>`__
 e `del
