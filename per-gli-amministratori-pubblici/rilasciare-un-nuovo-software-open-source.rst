@@ -346,7 +346,7 @@ comportare controversie legali.
 
 Inoltre, è importante evitare di usare la dicitura "Tutti i diritti
 riservati" o "All rights reserved", in quanto in contraddizione con
-l'apposizione di una licenza aperta.
+l'apposizione di una licenza libera.
 
 Per questo motivo ogni repository deve obbligatoriamente avere una
 licenza riportata nel file dedicato (chiamato normalmente LICENSE o
