@@ -1,14 +1,14 @@
 Gli svantaggi del software proprietario
 =======================================
 
-Al contrario, per gli enti pubblici, l'uso di software non open source
+Al contrario, per gli enti pubblici, l'uso di software proprietario
 **può comportare una mancanza di trasparenza,** soprattutto nei processi
 di erogazione dei servizi pubblici. La mancata trasparenza causa degli
 errori, anche nell’applicazione delle norme, che soltanto i fornitori
 possono correggere.
 
 Nell'ultimo decennio, le organizzazioni pubbliche che hanno acquisito
-soluzioni software non open source sono state talvolta sorprese nello
+soluzioni software proprietarie sono state talvolta sorprese nello
 scoprire che:
 
 -  non sono libere di modificare (autonomamente, o tramite terzi) il

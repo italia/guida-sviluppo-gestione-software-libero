@@ -6,7 +6,7 @@ Gestire un software nel suo ciclo di vita
 L'importanza del ruolo del maintainer
 -------------------------------------
 
-Il *maintainer* di un progetto open source è un ruolo con molteplici
+Il *maintainer* di un progetto di *software* libero è un ruolo con molteplici
 funzioni organizzative e pratiche. Essenzialmente, il maintainer ha il
 completo controllo di un repository, potendo effettuare le operazioni di
 *clone*, *push*, *merge*, creazione di nuovi *branch* e così via. È la
@@ -15,7 +15,7 @@ repository, ovvero colui che si impegna a seguire l’evoluzione del
 software, effettuando le operazioni tipiche di *housekeeping*: si
 assicura che i diversi approcci vengano seguiti, assicura che il gitflow
 scelto venga rispettato, che il versionamento sia coerente con le scelte
-e così via. Inoltre il maintainer di un progetto open source nella
+e così via. Inoltre il maintainer di un progetto libero nella
 maggioranza dei casi ha a che fare con la community, ovvero l’insieme
 degli utenti o dei contributori che interagiscono con il repository.
 Questa figura, infatti, segue l’evoluzione delle issue, dirige
@@ -299,7 +299,7 @@ più utilizzati citiamo:
    integrato con la piattaforma di code-hosting GitLab
 
 -  `Circle CI <https://circleci.com/>`__, servizio proprietario,
-   disponibile come SaaS gratuitamente per i progetti open source
+   disponibile come SaaS gratuitamente per i progetti di *software* libero
 
 -  `GitHub Actions <https://github.com/features/actions>`__
 
@@ -363,4 +363,4 @@ Abbiamo visto come i sistemi di CI possono facilitare la vita dello
 sviluppatore, aumentare la qualità del codice, supportare le analisi di
 sicurezza e, infine, effettuare la messa in opera dell’intero sistema in
 modo completamente automatico: possono sicuramente essere considerati il
-coltellino svizzero dello sviluppo open source.
+coltellino svizzero dello sviluppo di *software* libero.

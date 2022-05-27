@@ -13,7 +13,7 @@ possono essere:
 -  riuso di una soluzione già disponibile, sviluppata e messa a
    disposizione da un’altra PA;
 
--  riuso di una soluzione open source sviluppata da terzi;
+-  riuso di una soluzione di *software* libero sviluppata da terzi;
 
 -  sviluppo di una nuova soluzione utilizzando sviluppatori interni alla
    PA;
@@ -25,11 +25,11 @@ possono essere:
 
 Nel caso in cui la PA decida di acquisire software proprietario o di
 svilupparne uno nuovo (vale a dire nel caso in cui non sfrutti il riuso
-di una soluzione già disponibile o di un software open source di terze
+di una soluzione già disponibile o di un *software* libero di terze
 parti) deve motivare tale scelta attraverso la redazione di una
 **valutazione comparativa scritta**. Il software commissionato o
-sviluppato deve quindi obbligatoriamente essere rilasciato come open
-source per favorire il suo riuso da parte di altre amministrazioni.
+sviluppato deve quindi obbligatoriamente essere rilasciato come *software*
+libero per favorire il suo riuso da parte di altre amministrazioni.
 
 `Il catalogo di Developers
 Italia <https://developers.italia.it/it/software>`__ è centrale in

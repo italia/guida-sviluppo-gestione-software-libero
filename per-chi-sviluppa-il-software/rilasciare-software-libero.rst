@@ -1,13 +1,13 @@
-Rilasciare un software open source
-==================================
+Rilasciare software libero
+==========================
 
 Nel seguito sono descritte delle buone pratiche per rilasciare software
-in modo efficace seguendo il paradigma open source.
+in modo efficace seguendo il paradigma del *software* libero.
 
 Preparare il progetto
 ---------------------
 
-Prima di rilasciare del codice in modalità open source è fondamentale
+Prima di rilasciare del codice come *software* libero è fondamentale
 prestare molta attenzione a ogni singolo contenuto che dovrà essere
 caricato sul repository e che di conseguenza diventerà pubblicamente
 fruibile. È quindi importante effettuare dei controlli preventivi a
@@ -83,7 +83,7 @@ propria toolchain di build. La ridondanza, in questo caso, può essere
 d’aiuto.
 
 Numerosi sono gli strumenti di audit gratuiti che effettuano controlli
-di sicurezza e di qualità ulteriori per progetti open source. Come
+di sicurezza e di qualità ulteriori per progetti di *software* libero. Come
 supporto per la scelta è possibile controllare le comparazioni degli
 strumenti sia FLOSS che di mercato in queste liste:
 
@@ -144,10 +144,10 @@ Tra gli strumenti disponibili è possibile citare:
 
 -  `Dependabot <https://dependabot.com/>`__ - ora integrato in GitHub
 
--  `Snyk <https://snyk.io/>`__, sistema proprietario erogato come SaaS
-   disponibile gratuitamente per progetti open source.
+-  `Snyk <https://snyk.io/>`__, sistema proprietario in SaaS
+   disponibile gratuitamente per progetti di *software* libero.
 
-I software open source moderni sono composti da numerosissime
+Molto *software* libero moderno è composto da numerosissime
 dipendenze, come ad esempio librerie di terze parti, e pensare di
 aggiornarle indipendentemente senza utilizzare degli strumenti di
 supporto è un’operazione molto esosa e incline ad errori. È perciò
@@ -180,7 +180,7 @@ Ad esempio, questo è quanto prevede la
    SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
 
 È dunque compito di chi sviluppa e mantiene il software rilasciato in
-open source assicurarsi che sia sicuro, privo di bug o di vulnerabilità,
+come *software* libero assicurarsi che sia sicuro, privo di bug o di vulnerabilità,
 e quindi adottare strumenti finalizzati alla qualità del codice, come ad
 esempio: unit tests, CI, auditing, checklist per feature parity.
 Problemi o limitazioni note devono essere accuratamente documentati come
@@ -189,7 +189,7 @@ issue, e nei casi più importanti anche esplicitati nel README.
 I file da inserire nel repository
 ---------------------------------
 
-Il repository di un progetto open source contiene solitamente numerosi
+Il repository di un progetto libero contiene solitamente numerosi
 file. In particolare, è buona pratica inserirne alcuni come il README,
 il file LICENSE o il file AUTHORS, per permettere al visitatore di
 capire più nel dettaglio la natura di tale progetto senza dover leggere
@@ -306,15 +306,15 @@ licenze non compatibili con quella attuale.
 publiccode.yml
 ~~~~~~~~~~~~~~
 
-Tutti i repository di software open source sviluppati da una Pubblica
+Tutti i repository di *software* libero sviluppati da una Pubblica
 Amministrazione italiana devono contenere un file
 `YAML <https://yaml.org/>`__ denominato publiccode.yml che contiene le
 informazioni utili al popolamento del `catalogo di Developers
 Italia <https://developers.italia.it/it/software>`__. publiccode.yml è
 un formato di metadatazione del software nato in Italia, ma in corso di
 adozione internazionale. Questo tipo di file può in realtà essere
-adottato da chiunque e dà la possibilità a tutti gli applicativi open
-source di essere inseriti nel catalogo di Developers Italia, dunque
+adottato da chiunque e dà la possibilità a tutti gli applicativi liberi
+di essere inseriti nel catalogo di Developers Italia, dunque
 proponendo il proprio lavoro alla considerazione delle Pubbliche
 Amministrazioni italiane. Tale file contiene diverse chiavi che possono
 essere facilmente compilate sia a mano che grazie ad un `editor
@@ -390,7 +390,7 @@ https://github.com/italia/developers.italia.it/blob/master/.gitignore
 File di progetto
 ~~~~~~~~~~~~~~~~
 
-Perché un progetto open source sia davvero in grado di generare
+Perché un progetto di *software* libero sia davvero in grado di generare
 l’impatto previsto è importante che all’interno del suo (o suoi)
 repository non vi siano solo i file contenenti il codice sorgente, ma
 siano esposti -e documentati- tutti i file di “contorno” che permettono
@@ -409,7 +409,7 @@ le modalità di gestione di un progetto con la finalità di garantire
 sistemi di build riproducibili, come ad esempio
 https://reproducible-builds.org/.
 
-Nota bene: un progetto open source il cui funzionamento non possa essere
+Nota bene: un progetto di *software* libero il cui funzionamento non possa essere
 correttamente riprodotto su altri sistemi al di fuori di quelli
 controllati dallo sviluppatore, non solo diminuisce drasticamente il suo
 impatto, ma viola anche parti di alcune licenze OSI compliant che

@@ -6,8 +6,8 @@
 
 # Guida allo sviluppo e gestione di software libero
 
-> Buone pratiche, suggerimenti e tecniche utili allo sviluppo di software open
-> source per chi gestisce, progetta e realizza i servizi pubblici digitali
+> Buone pratiche, suggerimenti e tecniche utili allo sviluppo di software libero
+> per chi gestisce, progetta e realizza i servizi pubblici digitali
 > italiani.
 
 # Leggi la guida su [Docs Italia](https://docs.italia.it/italia/developers-italia/guida-sviluppo-gestione-software-libero/it/stabile/index.html)
@@ -21,12 +21,12 @@ pubblici può utilizzare questo documento per realizzare servizi pubblici di
 alta qualità che siano più convenienti, il cui sviluppo presenti meno rischi
 e più vantaggi. In particolare questa guida si concentra su: 
 
-- come guidare le organizzazioni nel processo di rilascio di software open source 
+- come guidare le organizzazioni nel processo di rilascio di *software* libero
 e aprire a un pubblico più ampio l’intero processo di sviluppo (preparazione del
 progetto, i file necessari al progetto etc.).
-- gestire il software open source nel suo intero ciclo di vita (ruoli,
+- gestire il *software* libero nel suo intero ciclo di vita (ruoli,
 versionamento, gestione issue, gestione contributi etc.).
-- come contribuire a software open source sviluppato da altri.
+- come contribuire a *software* libero sviluppato da altri.
 
 # Dipendenze
 

@@ -1,14 +1,14 @@
-.. _contribuire-al-software-open-source-sviluppato-da-altri-1:
+.. _contribuire-a-software-libero-sviluppato-da-altri-1:
 
-Contribuire al software open source sviluppato da altri
-=======================================================
+Contribuire a software libero sviluppato da altri
+=================================================
 
 .. _relazioni-con-i-maintainer-del-software-1:
 
 Relazioni con i maintainer del software
 ---------------------------------------
 
-Utilizzare, ed eventualmente, contribuire, al codice open source
+Utilizzare, ed eventualmente, contribuire, al *software* libero
 disponibile è una pratica molto frequente, fortemente agevolata dal
 modello di riuso descritto dal CAD.
 
@@ -19,7 +19,7 @@ propria organizzazione, si consiglia di agire secondo questo schema:
    cui si ha bisogno,
 
 2. valutare se valga la pena svilupparlo internamente da zero o se sia
-   meglio partire da qualche software open source già esistente,
+   meglio partire da qualche *software* libero già esistente,
 
 3. nel caso di sviluppo partendo da un software libero esistente (ad es.
    trovato sul `Catalogo open source della Pubblica
@@ -56,7 +56,7 @@ software della necessità di aggiornamento.
 Riutilizzo
 ----------
 
-Il riutilizzo di una soluzione software open source, può avvenire
+Il riutilizzo di una soluzione di *software* libero, può avvenire
 liberamente per gli scopi e con le modalità descritte nella licenza
 applicata al software stesso. In caso di riutilizzo l’unico legame
 formale tra cedente e acquirente della soluzione è rappresentato dalla

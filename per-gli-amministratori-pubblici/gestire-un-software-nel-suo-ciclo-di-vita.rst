@@ -12,7 +12,7 @@ L’\ `Allegato
 B <https://docs.italia.it/italia/developers-italia/lg-acquisizione-e-riuso-software-per-pa-docs/it/stabile/attachments/allegato-b-guida-alla-manutenzione-di-software-open-source.html>`__
 alle Linee guida su acquisizione e riuso di software per le pubbliche
 amministrazioni descrive proprio questi aspetti legati alla manutenzione
-di software open source.
+di *software* libero.
 
 I sistemi di versionamento del codice, solitamente, dispongono di
 meccanismi per registrare issue e per seguire la loro risoluzione.
@@ -22,8 +22,7 @@ presa in carico e specificando le modalità e le tempistiche con cui
 saranno risolte.
 
 L’allegato alla linee guida descrive alcune interazioni tipiche che
-possono verificarsi sul sistema di code hosting di un software open
-source:
+possono verificarsi sul sistema di code hosting di *software* libero:
 
 -  risoluzione di bug;
 
@@ -76,9 +75,9 @@ Di seguito i passaggi da seguire per deprecare un repository inattivo:
    `README.md`. La descrizione è la prima cosa che viene letta da un
    utente che accede al repository e si trova all’inizio del file
    README. Risulta quindi importante aggiungere una frase del tipo: ::
-   
+
       ⚠️ Attenzione! Questo progetto non è più manutenuto dai suoi autori.
-   
+
    Si suggerisce anche di aggiungere nel README.md anche i riferimenti
    di contatto se qualche utente volesse prendersi carico del progetto
    come maintainer. Se c’è un motivo particolare per cui il software è

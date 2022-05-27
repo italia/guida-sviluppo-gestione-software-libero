@@ -15,7 +15,7 @@ Code Hosting (strumento di)
     sistemi di ticketing (ovvero sistemi per tenere traccia di problemi o
     proposte di modifica), processi per la contribuzione di codice da
     parte di terzi, area per il download dei rilasci, ecc.
-    
+
     Ad esempio, GitLab, GitHub e Bitbucket sono piattaforme di code hosting popolari.
 
 Codice sorgente
@@ -35,7 +35,7 @@ Ecosistema di sviluppo
     L'insieme di soggetti, strumenti tecnologici, strumenti di comunicazione,
     collaborazione e modelli di governance coinvolti nello sviluppo
     di un particolare software.
-    
+
 Ecosistema aperto di sviluppo
     Un ecosistema di sviluppo è detto aperto quando i soggetti coinvolti nello
     sviluppo di un software libero collaborano attraverso strumenti accessibili
@@ -48,7 +48,7 @@ Formato aperto (di dato)
     mantenuto in modo condiviso tra più enti che forniscono
     implementazioni concorrenti, con un processo trasparente. Il formato
     deve rimanere consistente con la versione dichiarata.
-    
+
     JPEG, PNG e ODF sono alcuni esempi di formati aperti.
 
 Interoperabilità
@@ -65,12 +65,12 @@ Licenza
     usare, studiare, modificare o diffondere l'opera senza un permesso
     scritto fornito dal titolare dei diritti.
 
-Licenza aperta o Licenza Open Source
-    Nel caso del software, una licenza aperta è una licenza che concede a chiunque usi un software, i diritti di
-    uso, copia, modifica, distribuzione di copie anche modificate; per fare ciò, è necessario anche che il codice sorgente
-    sia liberamente disponibile.
-    L'ente certificatore delle licenze *software* corrispondenti a questa
-    definizione è `Open Source Initiative (OSI) <https://opensource.org/licenses/alphabetical>`__.
+Licenza di software libero
+    È una licenza che concede a chiunque usi un software, i diritti di
+    uso, copia, modifica, distribuzione di copie anche modificate;
+    per fare ciò, è necessario anche che il codice sorgente sia liberamente disponibile.
+
+    `Lista di licenze di software libero <https://www.gnu.org/licenses/license-list.it.html#SoftwareLicenses>`__.
 
 Lock-in
     Fenomeno di natura tecnica ed economica in cui un generico utente non riesce a
@@ -83,9 +83,6 @@ Lock-in
     nel caso di soluzioni :term:`SaaS`) sono prerequisiti per evitare fenomeni
     di lock-in.
 
-Open Source
-Un software può essere definito open source quando è coperto da una licenza open source (vedi Licenze di Software Libero e Open Source)
-
 Repertorio o Repository o Deposito (di codice sorgente)
     All'interno di uno strumento di code-hosting, un repository è
     l'unità minima di contenimento del codice sorgente di un software.
@@ -95,11 +92,11 @@ Repertorio o Repository o Deposito (di codice sorgente)
 Riuso
     Nel contesto di questo documento, si intende il processo delineato
     dal :term:`CAD`  (art. 69) con il quale una amministrazione distribuisce
-    ("mettere a riuso") un *software* di cui ha titolarità in Open Source,
+    ("mettere a riuso") un *software* di cui ha titolarità come *software* libero,
     a favore di altre amministrazioni che possano utilizzarlo ("prendere
-    a riuso"). Tutto il *software* a riuso è Open Source, ma non tutto il
-    *software* Open Source è a riuso (poiché non tutto il *software* Open
-    Source è di titolarità di una amministrazione).
+    a riuso"). Tutto il *software* a riuso è *software* libero, ma non tutto il
+    *software* libero è a riuso (poiché non tutto il *software* libero
+    è di titolarità di una amministrazione).
 
 SaaS
     *Software* as a Service. Indica una modalità di distribuzione del
@@ -109,9 +106,22 @@ SaaS
     aggiornamenti, etc. Tipicamente, si tratta di applicativi web.
 
 Software libero
-    È una modalità con cui il *software* può essere concesso in licenza.
-    Un software è detto libero se è rilasciato con licenza
-    di software libero (v. Licenza di software libero)
+    È una modalità con cui il *software* può essere concesso in licenza
+    (vedi :term`Licenza di software libero`)
+
+    Deve rispettare queste caratteristiche:
+
+    * Libertà di eseguire il programma come si desidera, per qualsiasi scopo
+    * Libertà di studiare come funziona il programma e di modificarlo in modo
+      da adattarlo alle proprie necessità.
+      L'accesso al codice sorgente ne è un prerequisito.
+    * Libertà di ridistribuire copie in modo da aiutare gli altri
+    * Libertà di migliorare il programma e distribuirne pubblicamente i
+      miglioramenti apportati (e le versioni modificate in genere),
+      in modo tale che tutta la comunità ne tragga beneficio.
+      L'accesso al codice sorgente ne è un prerequisito.
+
+    `La definizione completa di software libero <https://www.gnu.org/philosophy/free-sw.it.html>`__.
 
 Software proprietario
     *Software* che ha restrizioni sul suo utilizzo, sulla sua modifica,
@@ -124,7 +134,7 @@ TCO
     costi del ciclo di vita di una risorsa IT calcolato su una finestra
     temporale adeguata al contesto della valutazione e che include il
     costo di migrazione verso altra soluzione (eg., acquisto,
-    installazione, gestione, manutenzione e smantellamento). Il calcolo del 
+    installazione, gestione, manutenzione e smantellamento). Il calcolo del
     TCO è basato sulla considerazione che il costo totale di utilizzo di
     una risorsa IT non dipende solo dai costi di acquisto, ma anche da tutti
     i costi che intervengono durante l'intero ciclo di vita della

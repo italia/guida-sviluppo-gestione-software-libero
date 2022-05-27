@@ -1,21 +1,21 @@
-.. _contribuire-al-software-open-source-sviluppato-da-altri-2:
+.. _contribuire-a-software-libero-sviluppato-da-altri-2:
 
-Contribuire al software open source sviluppato da altri
-=======================================================
+Contribuire a software libero sviluppato da altri
+=================================================
 
 .. _relazioni-con-i-maintainer-del-software-2:
 
 Relazioni con i maintainer del software
 ---------------------------------------
 
-Quando si contribuisce a progetti open source è bene fare in modo che le
+Quando si contribuisce a progetti di *software* libero è bene fare in modo che le
 interazioni con gli sviluppatori e i *maintainer* del codice avvengano
 con modalità e su canali pubblici. Questa modalità permette di dare una
 più ampia visibilità alle discussioni, invece di coinvolgere solo i
 diretti interessati.
 
 Comunicazioni pubbliche e aperte danno trasparenza al governo e alla
-gestione dei progetti open source all’interno di tutta la community.
+gestione dei progetti di *software* libero all’interno di tutta la community.
 
 Effettuare una contribuzione
 ----------------------------
