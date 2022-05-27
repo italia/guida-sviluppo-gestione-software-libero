@@ -72,6 +72,8 @@ Licenza di software libero
 
     `Lista di licenze di software libero <https://www.gnu.org/licenses/license-list.it.html#SoftwareLicenses>`__.
 
+    Nel :term:`Codice dell'Amministrazione Digitale<CAD>` è chiamata “licenza aperta”.
+
 Lock-in
     Fenomeno di natura tecnica ed economica in cui un generico utente non riesce a
     svincolarsi da una scelta tecnologica precedentemente effettuata.
@@ -122,6 +124,10 @@ Software libero
       L'accesso al codice sorgente ne è un prerequisito.
 
     `La definizione completa di software libero <https://www.gnu.org/philosophy/free-sw.it.html>`__.
+
+    Nel linguaggio comune è usato a volte il termine *open source* come sinonimo.
+    Malgrado non tutto il software *open source* sia anche software libero, lo è
+    nella maggior parte dei casi.
 
 Software proprietario
     *Software* che ha restrizioni sul suo utilizzo, sulla sua modifica,
