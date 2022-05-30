@@ -5,7 +5,7 @@
 riferimento per lo sviluppo dei servizi pubblici italiani. Vogliamo
 aiutare a costruire una Pubblica Amministrazione digitale collaborativa
 e indipendente, che aiuti il Paese a generare innovazione e che possa
-concentrarsi sul fornire servizi ai cittadini grazie a soluzioni
+concentrarsi sul fornire servizi alle persone grazie a soluzioni
 software sicure, riutilizzabili e tecnologicamente eccellenti. Mettiamo
 a disposizione strumenti tecnici, software, librerie, occasioni di
 incontro, forum di discussione, eventi di formazione e molto altro
@@ -98,25 +98,25 @@ può beneficiare dell’uso di buone pratiche nella gestione del software
 pubblico.
 
 I tre principali capitoli di questa guida si rivolgono quindi a:
-**responsabili politici**, **amministratrici pubbliche e amministratori
-pubblici** e **sviluppatrici e sviluppatori dei servizi pubblici.**
+**chi ha responsabilità politiche**, **chi amministra nel pubblico** e
+**chi sviluppa servizi pubblici.**
 
 Definiamo così i ruoli:
 
--  **responsabili politici:** soggetti coinvolti nella definizione delle
+-  **chi ha responsabilità politiche:** persone coinvolte nella definizione delle
    politiche e delle regole che vengono applicate nello sviluppo di
    servizi e soluzioni software per la pubblica amministrazione,
    indirizzandone l'attuazione. Sono coloro che definiscono le priorità
    e gli obiettivi dei progetti e di norma sono meno interessati agli
    aspetti tecnologici delle soluzioni realizzate;
 
--  **amministratrici pubbliche e amministratori pubblici:** responsabili
+-  **chi amministra nel pubblico:** persone responsabili
    delle amministrazioni pubbliche che gestiscono i progetti e
    garantiscono l'esecuzione nel rispetto di tempi e costi previsti, si
    relazionano con gli stakeholder e sono responsabili del servizio una
    volta rilasciato;
 
--  **sviluppatrici e sviluppatori:** si occupano di creare il software
+-  **chi sviluppa:** persone che si occupano di creare il software
    libero che implementa i servizi. Hanno solitamente un profilo molto
    tecnico e il loro lavoro ha un impatto diretto sulla qualità dei
    servizi.

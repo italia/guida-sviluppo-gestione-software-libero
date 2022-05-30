@@ -5,8 +5,8 @@ Accettare segnalazioni e contributi da terzi
 --------------------------------------------
 
 Un progetto di *software* libero è per sua natura a disposizione di tutti.
-Il suo codice sorgente può essere liberamente consultato anche da cittadine/i e
-dalle imprese, che a loro volta possono verificarlo, inviare
+Il suo codice sorgente può essere liberamente consultato anche da persone e
+e imprese, che a loro volta possono verificarlo, inviare
 segnalazioni di malfunzionamenti o proporre miglioramenti anche in forma
 di codice pronto all’uso. Questo modello cambia il tradizionale rapporto
 tra amministrazione committente e fornitore perché **introduce anche la
@@ -34,4 +34,4 @@ di versioni alternative.
 Questo consente la possibilità di creare partnership tra enti e
 istituzioni usando soltanto la forza dei termini di licenza libera e
 senza bisogno di accordi bilaterali o altre soluzioni ad hoc, mettendo
-in comune risorse e idee a tutto vantaggio dei cittadini.
+in comune risorse e idee a tutto vantaggio delle persone.

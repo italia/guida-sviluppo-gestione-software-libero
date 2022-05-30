@@ -6,14 +6,14 @@ A chi si rivolge questo capitolo
 
 Questo capitolo si rivolge a chi si occupa di fornire indirizzi politici
 alla pubblica amministrazione per spiegare i vantaggi dell'utilizzo di
-software libero per i cittadini, le imprese e i propri enti.
+software libero per le persone, le imprese e i propri enti.
 
 I vantaggi del software libero
 ------------------------------
 
 Il software oggi è al centro delle istituzioni
 pubbliche, modella il lavoro dei dipendenti pubblici e influenza la vita
-di quasi tutte le cittadine e i cittadini. Non è più solo uno strumento
+di quasi tutte le persone. Non è più solo uno strumento
 a supporto del lavoro degli esseri umani, ma in alcuni casi li
 sostituisce, sia applicando in modo automatico le previsioni normative
 (quando ad esempio calcola una riduzione di tariffa in base all’ISEE)
@@ -26,8 +26,8 @@ principi di controllo e governance democratici allo stesso modo del
 codice legale. Il software libero, grazie alla disponibilità pubblica del
 codice, è particolarmente indicato a soddisfare queste relazioni. Per il
 principio della trasparenza amministrativa [1]_, deve essere sempre
-possibile verificare l’applicazione delle norme da parte degli
-amministratori pubblici, e così dev’essere per il software che
+possibile verificare l’applicazione delle norme da parte di chi amministra
+nel pubblico, e così dev’essere per il software che
 sostituisce o collabora al loro lavoro.
 
 Nel 21° secolo, il software può essere considerato un'infrastruttura
@@ -49,12 +49,12 @@ tratta di un’infrastruttura civica essenziale.
   :maxdepth: 3
   :caption: Indice dei contenuti
 
-  per-le-responsabili-politiche-e-i-responsabili-politici/gli-svantaggi-del-software-proprietario.rst
-  per-le-responsabili-politiche-e-i-responsabili-politici/i-requisiti-del-software-pubblico.rst
-  per-le-responsabili-politiche-e-i-responsabili-politici/i-vantaggi-di-riutilizzare-un-software-libero.rst
-  per-le-responsabili-politiche-e-i-responsabili-politici/quali-sono-gli-aspetti-da-conoscere-della-gestione-del-ciclo-di-vita-di-un-software.rst
-  per-le-responsabili-politiche-e-i-responsabili-politici/contribuire-a-software-libero-sviluppato-da-altri.rst
-  per-le-responsabili-politiche-e-i-responsabili-politici/cosa-può-fare-in-concreto-chi-ha-responsabilità-politiche.rst
+  per-chi-ha-responsabilita-politiche/gli-svantaggi-del-software-proprietario.rst
+  per-chi-ha-responsabilita-politiche/i-requisiti-del-software-pubblico.rst
+  per-chi-ha-responsabilita-politiche/i-vantaggi-di-riutilizzare-un-software-libero.rst
+  per-chi-ha-responsabilita-politiche/quali-sono-gli-aspetti-da-conoscere-della-gestione-del-ciclo-di-vita-di-un-software.rst
+  per-chi-ha-responsabilita-politiche/contribuire-a-software-libero-sviluppato-da-altri.rst
+  per-chi-ha-responsabilita-politiche/cosa-può-fare-in-concreto-chi-ha-responsabilità-politiche.rst
 
 .. [1]
    L . 241/1990 modificata da L 15/2005
