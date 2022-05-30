@@ -5,7 +5,7 @@
 riferimento per lo sviluppo dei servizi pubblici italiani. Vogliamo
 aiutare a costruire una Pubblica Amministrazione digitale collaborativa
 e indipendente, che aiuti il Paese a generare innovazione e che possa
-concentrarsi sull'erogare servizi ai cittadini grazie a soluzioni
+concentrarsi sul fornire servizi ai cittadini grazie a soluzioni
 software sicure, riutilizzabili e tecnologicamente eccellenti. Mettiamo
 a disposizione strumenti tecnici, software, librerie, occasioni di
 incontro, forum di discussione, eventi di formazione e molto altro
