@@ -31,16 +31,6 @@ Community
     virtuale), dotata di regole e di una struttura, finalizzata alla
     realizzazione e/o gestione di un progetto comune.
 
-Ecosistema di sviluppo
-    L'insieme di soggetti, strumenti tecnologici, strumenti di comunicazione,
-    collaborazione e modelli di governance coinvolti nello sviluppo
-    di un particolare software.
-
-Ecosistema aperto di sviluppo
-    Un ecosistema di sviluppo è detto aperto quando i soggetti coinvolti nello
-    sviluppo di un software libero collaborano attraverso strumenti accessibili
-    al pubblico.
-
 Formato aperto (di dato)
     È un formato di rappresentazione dei dati, versionato, documentato
     esaustivamente e senza vincoli all'implementazione. Un formato
