@@ -73,13 +73,6 @@ Unito <https://gds.blog.gov.uk/>`__, `USA <http://code.gov/>`__) hanno
 avviato politiche nazionali per favorire l’uso del *software* libero
 all’interno della pubblica amministrazione.
 
-La licenza libera, seppur condizione necessaria per creare sistemi di
-sviluppo aperto, non è infatti da sola sufficiente a realizzare tutti i
-benefici di un ecosistema di sviluppo. Il legislatore recepisce questo
-aspetto garantendo al software libero una quasi esclusiva in ambito di
-procurement pubblico e stabilendo delle linee guida generali per aderire
-alle migliori pratiche internazionali.
-
 Questa è una guida pratica, per cui non ci dilungheremo ulteriormente in
 spiegazioni sui benefici strutturali del *software* libero (che possono
 essere reperiti tra i documenti `della Commissione
