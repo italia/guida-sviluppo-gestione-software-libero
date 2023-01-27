@@ -24,8 +24,6 @@ progetti liberi moderni:
 
 -  Bitbucket - `https://bitbucket.org <https://bitbucket.org/>`__
 
--  Codeberg - https://codeberg.org/
-
 All’interno di uno strumento di code hosting è possibile organizzare i
 propri progetti in modo gerarchico, creando un’\ **organizzazione** che
 conterrà all’interno tutti i singoli **repository** di software. Tale
