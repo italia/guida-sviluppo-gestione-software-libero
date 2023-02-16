@@ -1,10 +1,10 @@
 document:
-  name: Guida allo sviluppo e gestione di software libero 
+  name: Guida allo sviluppo e gestione di software libero
   description: |
     Guida allo sviluppo e gestione di software libero
   tags:
-    - developers  
-    - software libero 
+    - developers
+    - software libero
     - open source
     - FLOSS
     - community

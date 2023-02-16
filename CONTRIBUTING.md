@@ -1,6 +1,6 @@
 # Contributing instructions
 
-Thank you for considering to contribute to 
+Thank you for considering to contribute to
 "Guida allo sviluppo e gestione di software libero" documentation!
 Here you will find instructions and guidelines for contributing efficiently.
 
@@ -8,14 +8,14 @@ Before proceeding further, please review our [Code of Conduct](CODE_OF_CONDUCT.m
 
 ## Issues
 
-If you find an issue in the 
+If you find an issue in the
 [Guida allo sviluppo e gestione di software libero](https://docs.italia.it/italia/developers-italia/guida-sviluppo-gestione-software-libero/it/stabile/index.html)
 website or in this repository, please check if it's already known by searching
-the [issue section](https://github.com/italia/guida-sviluppo-gestione-software-libero/issues), 
+the [issue section](https://github.com/italia/guida-sviluppo-gestione-software-libero/issues),
 otherwise file a new one: we really appreciate it! :rocket:.
 
 You're welcome to contribute to open issues with more information or by adding
-:+1: on them: it will help the maintainers identify the issues to be 
+:+1: on them: it will help the maintainers identify the issues to be
 prioritized.
 
 ### Creating a new issue
@@ -40,7 +40,7 @@ That's great and always appreciated! :sunglasses:
 
 1. [Fork the project](https://help.github.com/articles/creating-a-pull-request-from-a-fork/)
 
-2. Follow our [conventions regarding commits](#commit-messages) for your commit 
+2. Follow our [conventions regarding commits](#commit-messages) for your commit
    message
 
 3. Open a Pull request against `master`.
@@ -88,6 +88,6 @@ such a milestone to be hit.
 
 ## Community
 
-Want to get more involved in the community? Use Slack and join 
-[Developers Italia](https://app.slack.com/client/T6C27AXE0/CJRSS5S9W/) 
+Want to get more involved in the community? Use Slack and join
+[Developers Italia](https://app.slack.com/client/T6C27AXE0/CJRSS5S9W/)
 or inside [Forum Italia](https://forum.italia.it/c/software-open-source-per-la-pa/49).

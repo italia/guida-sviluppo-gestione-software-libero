@@ -135,4 +135,3 @@ TCO
     una risorsa IT non dipende solo dai costi di acquisto, ma anche da tutti
     i costi che intervengono durante l'intero ciclo di vita della
     risorsa, comprese le attività di dismissione della stessa.
-
