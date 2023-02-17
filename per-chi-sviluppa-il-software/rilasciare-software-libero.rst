@@ -1,33 +1,49 @@
 Rilasciare software libero
 ==========================
 
-Nel seguito sono descritte delle buone pratiche per rilasciare software
+Questo capitolo descrive delle buone pratiche per rilasciare software
 in modo efficace seguendo il paradigma del *software* libero.
+
+Queste pratiche sono valide anche per tutti
+quei progetti che, con il software libero, condividono una o più
+delle seguenti caratteristiche:
+
+- una aspettativa di vita medio/lunga, per cui la manutenzione del
+  codice è un aspetto importante;
+- un team di sviluppo che cambia nel tempo, per cui il tempo di
+  familiarizzazione con il codice è un aspetto importante.
 
 Preparare il progetto
 ---------------------
 
-Prima di rilasciare del codice come *software* libero è fondamentale
+Prima di rilasciare del codice come *software* libero bisogna
 prestare molta attenzione a ogni singolo contenuto che dovrà essere
 caricato sul repository e che di conseguenza diventerà pubblicamente
-fruibile. È quindi importante effettuare dei controlli preventivi a
-tutti i file (anche a quelli nascosti che a volte potrebbero sfuggire ad
-un’analisi superficiale) per assicurarsi che siano adatti alla
-visualizzazione pubblica. In tal senso, è importante porre attenzione
-anche ai commenti del codice: spesso, infatti, accade che nei commenti
-gli sviluppatori utilizzino un linguaggio inopportuno alla
-pubblicazione.
+fruibile.
+Bisogna assicurarsi che ogni file
+(anche a quelli nascosti che a volte potrebbero sfuggire ad
+un’analisi superficiale) sia adatto alla
+visualizzazione pubblica, inclusi i
+commenti del codice, che potrebbero contenere frasi inadatte
+alla pubblicazione, come la seguente ::
 
-Inoltre, è bene accertarsi di alcuni principi elementari di sicurezza
-per verificare che il software sia ragionevolmente sicuro per essere
-rilasciato pubblicamente. Per esempio, è fondamentale porre particolare
-attenzione nel verificare che nel codice non siano state dimenticate
-delle password (nemmeno di ambienti di test o sviluppo).
+   // Questa funzione fa schifo, ma non ho voglia di riscriverla.
+   function foo() {
+       ...
+   }
 
-Problema simile a quello delle password riguarda i token di
-autenticazione usati per alcuni servizi acceduti tramite rete.
+Il codice non deve inoltre contenere informazioni confidenziali
+come password e token di autenticazione
+(nemmeno di ambienti di test o sviluppo).
+usati per accedere a servizi tramite rete.
 
-Per ovviare a ciò è possibile usare dei rapidi stratagemmi. Ad esempio,
+Il modo migliore è utilizzare strumenti di analisi statica
+Static Application Security Testing (SAST)
+disponibili anche con licenze open source.
+
+Dopo aver utilizzato uno strumento di SAST, è possibile fare una
+ulteriore validazione manuale.
+Ad esempio,
 per individuare nomi host, indirizzi di posta elettronica e indirizzi
 IP, è possibile eseguire questo comando in console: ::
 
@@ -57,12 +73,13 @@ Questi sono solo alcuni esempi utili per trovare rapidi riscontri ma
 deve essere cura del maintainer effettuare dei controlli approfonditi in
 questa fase preparatoria alla pubblicazione.
 
-Se è stato utilizzato il sistema di versionamento git fin dall’inizio
-dello sviluppo è fondamentale prestare attenzione al fatto che tutte le
-modifiche apportate ai vari file siano state tracciate e quindi visibili
-nella *history*. In tal senso, se vengono rimosse delle informazioni in
-fase di preparazione è fondamentale che le stesse informazioni siano
-rimosse anche dalla history. Per effettuare questo tipo di operazione
+Se è stato utilizzato il sistema di versionamento (e.g. git, svn, ..)
+fin dall’inizio
+dello sviluppo le informazioni confidenziali potrebbero restare visibili
+nella *history*.
+Nella fase di preparazione bisogna quindi rimuovere le informazioni
+sia dal codice finale che dalla history.
+Per effettuare questo tipo di operazione
 esistono diversi strumenti. Il documento `Removing sensitive data from a
 repository <https://help.github.com/en/articles/removing-sensitive-data-from-a-repository>`__
 (scritto dalla piattaforma GitHub ma applicabile in generale a tutti i
@@ -189,17 +206,21 @@ issue, e nei casi più importanti anche esplicitati nel README.
 I file da inserire nel repository
 ---------------------------------
 
-Il repository di un progetto libero contiene solitamente numerosi
-file. In particolare, è buona pratica inserirne alcuni come il README,
-il file LICENSE o il file AUTHORS, per permettere al visitatore di
-capire più nel dettaglio la natura di tale progetto senza dover leggere
-fin da subito il codice sorgente. Vediamo ora questi file più in
-dettaglio
+E' buona pratica che un repository contenga dei file che permettano
+al visitatore di familiarizzare col progetto, e in particolare capire:
+
+- se è il progetto che stanno cercando e se gli è utile;
+- come iniziare a lavorare sul progetto nel minor tempo possibile
+  (e.g. entrare nel dettaglio la natura del progetto
+   senza dover leggere da principio il codice sorgente).
+
+Tra questi file ci sono il README, il file LICENSE e il file AUTHORS.
+Vediamoli ora più in dettaglio
 
 README
 ~~~~~~
 
-Ogni repository deve avere nella root un file README, solitamente in
+Ogni repository deve avere nella directory principale un file README, solitamente in
 formato Markdown (.md). È buona norma che questo file contenga:
 
 -  il **titolo** del repository ed un **sottotitolo descrittivo**;
