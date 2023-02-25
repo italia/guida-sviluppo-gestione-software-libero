@@ -19,7 +19,7 @@ organizzazioni pubbliche nello sviluppo e nella gestione del software libero
 e delle politiche connesse. Chiunque sviluppi software o policy per scopi
 pubblici può utilizzare questo documento per realizzare servizi pubblici di
 alta qualità che siano più convenienti, il cui sviluppo presenti meno rischi
-e più vantaggi. In particolare questa guida si concentra su: 
+e più vantaggi. In particolare questa guida si concentra su:
 
 - come guidare le organizzazioni nel processo di rilascio di *software* libero
 e aprire a un pubblico più ampio l’intero processo di sviluppo (preparazione del
@@ -31,8 +31,8 @@ versionamento, gestione issue, gestione contributi etc.).
 # Dipendenze
 
 Il repository è strutturato per essere compatibile con la piattaforma [Docs
-Italia](https://docs.italia.it/). 
-La piattaforma accetta documenti in formato RST o MD. 
+Italia](https://docs.italia.it/).
+La piattaforma accetta documenti in formato RST o MD.
 Per informazioni sulla struttura di questo repository visita il [repository
 dedicato](https://github.com/italia/docs-italia-starter-kit).
 
@@ -57,12 +57,12 @@ modifiche [in questo modo](https://docs.github.com/en/repositories/working-with-
 
 È possibile contattare i maintainer anche all'interno dello [Slack di Developers Italia](https://app.slack.com/client/T6C27AXE0/C9T4ELD4G/) oppure all'interno di [Forum Italia](https://forum.italia.it/c/software-open-source-per-la-pa/49).
 
-# Manutenzione 
+# Manutenzione
 
-Il Team di Developers Italia mantiene attivamente la guida. 
+Il Team di Developers Italia mantiene attivamente la guida.
 
-# Licenza 
+# Licenza
 
 Copyright © 2022- [I rispettivi contributori](https://github.com/italia/guida-sviluppo-gestione-software-libero/graphs/contributors).
 
-Questa guida è rilasciata con una licenza CC BY 4.0. 
+Questa guida è rilasciata con una licenza CC BY 4.0.
