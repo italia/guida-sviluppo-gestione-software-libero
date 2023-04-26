@@ -211,8 +211,8 @@ al visitatore di familiarizzare col progetto, e in particolare capire:
 
 - se è il progetto che stanno cercando e se gli è utile;
 - come iniziare a lavorare sul progetto nel minor tempo possibile
-  (e.g. entrare nel dettaglio la natura del progetto
-   senza dover leggere da principio il codice sorgente).
+  (e.g. entrare nei dettagli del progetto
+   senza partire per forza dal codice sorgente).
 
 Tra questi file ci sono il README, il file LICENSE e il file AUTHORS.
 Vediamoli ora più in dettaglio
