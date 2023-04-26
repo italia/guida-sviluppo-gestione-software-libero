@@ -206,8 +206,8 @@ issue, e nei casi più importanti anche esplicitati nel README.
 I file da inserire nel repository
 ---------------------------------
 
-E' buona pratica che un repository contenga dei file che permettano
-al visitatore di familiarizzare col progetto, e in particolare capire:
+È buona pratica che un repository contenga dei file che permettano
+a chi lo visita di familiarizzare col progetto, e in particolare capire:
 
 - se è il progetto che stanno cercando e se gli è utile;
 - come iniziare a lavorare sul progetto nel minor tempo possibile
