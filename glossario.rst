@@ -97,6 +97,11 @@ SaaS
     al quale si delegano gestione dell'infrastruttura, manutenzione,
     aggiornamenti, etc. Tipicamente, si tratta di applicativi web.
 
+SAST
+    Static Application Security Testing. Indica una tecnica di
+    analisi del codice sorgente di un *software* per individuare
+    possibili vulnerabilità di sicurezza.
+
 Software libero
     È una modalità con cui il *software* può essere concesso in licenza
     (vedi :term:`Licenza di software libero`)
